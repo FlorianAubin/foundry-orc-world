@@ -3,6 +3,8 @@
 echo "Call auto pull $(date) from $(pwd)"
 echo $ORCS_WORLD_PATH
 
+git -C $ORCS_WORLD_PATH fetch
+
 remote_commit=$(git -C $ORCS_WORLD_PATH rev-parse origin/main)
 local_commit=$(git -C $ORCS_WORLD_PATH rev-parse main)
 
