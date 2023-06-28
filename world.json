@@ -2,10 +2,10 @@
   "title": "Orc",
   "id": "orc",
   "system": "orc",
-  "coreVersion": "10.291",
+  "coreVersion": "10.303",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "10.303"
   },
   "systemVersion": "1.05"
 }
