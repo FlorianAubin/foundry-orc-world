@@ -2,10 +2,13 @@
   "title": "Orc",
   "id": "orc",
   "system": "orc",
-  "coreVersion": "10.303",
+  "coreVersion": "11.313",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.303"
+    "minimum": "11",
+    "verified": "11.313"
   },
-  "systemVersion": "1.6"
+  "systemVersion": "1.8",
+  "lastPlayed": "Thu Oct 12 2023 00:13:31 GMT+0200 (heure d’été d’Europe centrale)",
+  "safeMode": false,
+  "playtime": 17704
 }
