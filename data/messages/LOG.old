@@ -1,25 +1,5 @@
-2023/10/05-08:27:22.519 31fc Recovering log #169
-2023/10/05-08:27:22.519 31fc Level-0 table #171: started
-2023/10/05-08:27:22.519 31fc Level-0 table #171: 4580 bytes OK
-2023/10/05-08:27:22.526 31fc Delete type=0 #169
-2023/10/05-08:27:22.527 31fc Delete type=3 #167
-2023/10/05-08:31:40.287 4710 Level-0 table #174: started
-2023/10/05-08:31:40.287 4710 Level-0 table #174: 0 bytes OK
-2023/10/05-08:31:40.289 4710 Delete type=0 #172
-2023/10/05-08:31:40.293 4710 Manual compaction at level-0 from '!messages!00r9QVTq0r2Wrzmw' @ 72057594037927935 : 1 .. '!messages!zxVWprdtsnB7BLJO' @ 0 : 0; will stop at '!messages!vNIIcN8KHpSPsMIg' @ 9022 : 1
-2023/10/05-08:31:40.293 4710 Compacting 2@0 + 1@1 files
-2023/10/05-08:31:40.321 4710 Generated table #175@0: 1929 keys, 1115662 bytes
-2023/10/05-08:31:40.321 4710 Compacted 2@0 + 1@1 files => 1115662 bytes
-2023/10/05-08:31:40.323 4710 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/10/05-08:31:40.323 4710 Delete type=2 #166
-2023/10/05-08:31:40.323 4710 Delete type=2 #168
-2023/10/05-08:31:40.323 4710 Delete type=2 #171
-2023/10/05-08:31:40.331 4710 Manual compaction at level-0 from '!messages!vNIIcN8KHpSPsMIg' @ 9022 : 1 .. '!messages!zxVWprdtsnB7BLJO' @ 0 : 0; will stop at (end)
-2023/10/05-08:31:40.337 4710 Manual compaction at level-1 from '!messages!00r9QVTq0r2Wrzmw' @ 72057594037927935 : 1 .. '!messages!zxVWprdtsnB7BLJO' @ 0 : 0; will stop at '!messages!zxVWprdtsnB7BLJO' @ 7885 : 1
-2023/10/05-08:31:40.337 4710 Compacting 1@1 + 1@2 files
-2023/10/05-08:31:40.374 4710 Generated table #176@1: 2675 keys, 1549672 bytes
-2023/10/05-08:31:40.374 4710 Compacted 1@1 + 1@2 files => 1549672 bytes
-2023/10/05-08:31:40.376 4710 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/05-08:31:40.376 4710 Delete type=2 #151
-2023/10/05-08:31:40.376 4710 Delete type=2 #175
-2023/10/05-08:31:40.381 4710 Manual compaction at level-1 from '!messages!zxVWprdtsnB7BLJO' @ 7885 : 1 .. '!messages!zxVWprdtsnB7BLJO' @ 0 : 0; will stop at (end)
+2023/10/18-08:32:28.531 3228 Recovering log #190
+2023/10/18-08:32:28.534 3228 Level-0 table #192: started
+2023/10/18-08:32:28.538 3228 Level-0 table #192: 119790 bytes OK
+2023/10/18-08:32:28.544 3228 Delete type=0 #190
+2023/10/18-08:32:28.544 3228 Delete type=3 #189

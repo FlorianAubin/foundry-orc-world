@@ -1,22 +1,11 @@
-2023/10/05-08:27:22.468 31fc Recovering log #184
-2023/10/05-08:27:22.468 31fc Level-0 table #187: started
-2023/10/05-08:27:22.474 31fc Level-0 table #187: 62845 bytes OK
-2023/10/05-08:27:22.479 31fc Delete type=0 #184
-2023/10/05-08:27:22.479 31fc Delete type=3 #182
-2023/10/05-08:27:31.745 4710 Compacting 1@0 + 1@1 files
-2023/10/05-08:27:31.773 4710 Generated table #189@0: 1653 keys, 1072269 bytes
-2023/10/05-08:27:31.773 4710 Compacted 1@0 + 1@1 files => 1072269 bytes
-2023/10/05-08:27:31.775 4710 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/10/05-08:27:31.775 4710 Delete type=2 #185
-2023/10/05-08:27:31.775 4710 Delete type=2 #187
-2023/10/05-08:31:40.254 4710 Level-0 table #191: started
-2023/10/05-08:31:40.255 4710 Level-0 table #191: 15819 bytes OK
-2023/10/05-08:31:40.258 4710 Delete type=0 #188
-2023/10/05-08:31:40.262 4710 Manual compaction at level-0 from '!actors!0alYBeb1RBQFHm1B' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at '!actors.items!31zN9jkZvyafZnlv.btUjajPmtwgSkiQR' @ 11256 : 1
-2023/10/05-08:31:40.262 4710 Compacting 1@0 + 1@1 files
-2023/10/05-08:31:40.285 4710 Generated table #192@0: 1654 keys, 1072660 bytes
-2023/10/05-08:31:40.285 4710 Compacted 1@0 + 1@1 files => 1072660 bytes
-2023/10/05-08:31:40.286 4710 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/10/05-08:31:40.286 4710 Delete type=2 #189
-2023/10/05-08:31:40.286 4710 Delete type=2 #191
-2023/10/05-08:31:40.289 4710 Manual compaction at level-0 from '!actors.items!31zN9jkZvyafZnlv.btUjajPmtwgSkiQR' @ 11256 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
+2023/10/18-08:32:28.485 3228 Recovering log #210
+2023/10/18-08:32:28.488 3228 Level-0 table #213: started
+2023/10/18-08:32:28.493 3228 Level-0 table #213: 138735 bytes OK
+2023/10/18-08:32:28.498 3228 Delete type=0 #210
+2023/10/18-08:32:28.499 3228 Delete type=3 #208
+2023/10/18-08:32:33.421 4c24 Compacting 1@0 + 1@1 files
+2023/10/18-08:32:33.452 4c24 Generated table #215@0: 1700 keys, 1118952 bytes
+2023/10/18-08:32:33.452 4c24 Compacted 1@0 + 1@1 files => 1118952 bytes
+2023/10/18-08:32:33.454 4c24 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/18-08:32:33.454 4c24 Delete type=2 #211
+2023/10/18-08:32:33.454 4c24 Delete type=2 #213
