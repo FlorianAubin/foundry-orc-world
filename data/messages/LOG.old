@@ -1,5 +1,8 @@
-2023/10/18-08:32:28.531 3228 Recovering log #190
-2023/10/18-08:32:28.534 3228 Level-0 table #192: started
-2023/10/18-08:32:28.538 3228 Level-0 table #192: 119790 bytes OK
-2023/10/18-08:32:28.544 3228 Delete type=0 #190
-2023/10/18-08:32:28.544 3228 Delete type=3 #189
+2023/11/04-23:14:51.408 1df8 Recovering log #257
+2023/11/04-23:14:51.412 1df8 Delete type=0 #257
+2023/11/04-23:14:51.412 1df8 Delete type=3 #255
+2023/11/04-23:17:08.919 1860 Level-0 table #262: started
+2023/11/04-23:17:08.919 1860 Level-0 table #262: 0 bytes OK
+2023/11/04-23:17:08.921 1860 Delete type=0 #260
+2023/11/04-23:17:08.921 1860 Manual compaction at level-0 from '!messages!050uLoEBMTzLQGaJ' @ 72057594037927935 : 1 .. '!messages!zy1cLOhdALnbKOfL' @ 0 : 0; will stop at (end)
+2023/11/04-23:17:08.921 1860 Manual compaction at level-1 from '!messages!050uLoEBMTzLQGaJ' @ 72057594037927935 : 1 .. '!messages!zy1cLOhdALnbKOfL' @ 0 : 0; will stop at (end)
