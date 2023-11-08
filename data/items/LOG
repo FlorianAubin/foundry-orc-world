@@ -1,3 +1,5 @@
-2023/11/04-23:17:12.286 1df8 Recovering log #243
-2023/11/04-23:17:12.291 1df8 Delete type=0 #243
-2023/11/04-23:17:12.291 1df8 Delete type=3 #241
+2023/11/08-18:03:51.015 1aec Recovering log #278
+2023/11/08-18:03:51.015 1aec Level-0 table #280: started
+2023/11/08-18:03:51.017 1aec Level-0 table #280: 1156 bytes OK
+2023/11/08-18:03:51.021 1aec Delete type=0 #278
+2023/11/08-18:03:51.022 1aec Delete type=3 #277
