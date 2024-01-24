@@ -1,11 +1,19 @@
-2024/01/20-00:53:53.183 2d60 Recovering log #629
-2024/01/20-00:53:53.189 2d60 Level-0 table #632: started
-2024/01/20-00:53:53.198 2d60 Level-0 table #632: 337997 bytes OK
-2024/01/20-00:53:53.203 2d60 Delete type=0 #629
-2024/01/20-00:53:53.204 2d60 Delete type=3 #627
-2024/01/20-00:53:57.456 4538 Compacting 1@0 + 1@1 files
-2024/01/20-00:53:57.499 4538 Generated table #634@0: 2830 keys, 1889226 bytes
-2024/01/20-00:53:57.499 4538 Compacted 1@0 + 1@1 files => 1889226 bytes
-2024/01/20-00:53:57.501 4538 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/01/20-00:53:57.501 4538 Delete type=2 #630
-2024/01/20-00:53:57.502 4538 Delete type=2 #632
+2024/01/24-18:07:54.173417 7f867cf0a0 Recovering log #633
+2024/01/24-18:07:54.173833 7f867cf0a0 Level-0 table #636: started
+2024/01/24-18:07:54.183553 7f867cf0a0 Level-0 table #636: 15447 bytes OK
+2024/01/24-18:07:54.207554 7f867cf0a0 Delete type=3 #631
+2024/01/24-18:07:54.207779 7f867cf0a0 Delete type=3 #365
+2024/01/24-18:07:54.207964 7f867cf0a0 Delete type=0 #633
+2024/01/24-18:07:54.208144 7f867cf0a0 Delete type=0 #367
+2024/01/24-23:04:14.596030 7e5bf3f0a0 Level-0 table #639: started
+2024/01/24-23:04:14.712040 7e5bf3f0a0 Level-0 table #639: 1162752 bytes OK
+2024/01/24-23:04:14.720612 7e5bf3f0a0 Delete type=0 #637
+2024/01/24-23:04:14.783507 7e5bf3f0a0 Manual compaction at level-0 from '!actors!0WKCXdCrjAsyZSpo' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at '!actors!p1WYvJpSfbQqOzaN' @ 42180 : 1
+2024/01/24-23:04:14.783549 7e5bf3f0a0 Compacting 2@0 + 1@1 files
+2024/01/24-23:04:14.996101 7e5bf3f0a0 Generated table #640@0: 2828 keys, 1889008 bytes
+2024/01/24-23:04:14.996208 7e5bf3f0a0 Compacted 2@0 + 1@1 files => 1889008 bytes
+2024/01/24-23:04:15.002168 7e5bf3f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/01/24-23:04:15.002677 7e5bf3f0a0 Delete type=2 #639
+2024/01/24-23:04:15.004129 7e5bf3f0a0 Delete type=2 #634
+2024/01/24-23:04:15.005910 7e5bf3f0a0 Delete type=2 #636
+2024/01/24-23:04:15.067910 7e5bf3f0a0 Manual compaction at level-0 from '!actors!p1WYvJpSfbQqOzaN' @ 42180 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
