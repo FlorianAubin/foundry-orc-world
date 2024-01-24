@@ -1,22 +1,5 @@
-2023/11/08-20:06:12.918561 7f871ff0a0 Recovering log #316
-2023/11/08-20:06:12.939864 7f871ff0a0 Delete type=0 #316
-2023/11/08-20:06:12.940037 7f871ff0a0 Delete type=3 #314
-2023/11/08-22:57:41.896332 7f7d63f0a0 Level-0 table #321: started
-2023/11/08-22:57:41.916754 7f7d63f0a0 Level-0 table #321: 96479 bytes OK
-2023/11/08-22:57:41.923311 7f7d63f0a0 Delete type=0 #319
-2023/11/08-22:57:42.102265 7f7d63f0a0 Manual compaction at level-0 from '!messages!0HZ2ai2GLUTOLOQo' @ 72057594037927935 : 1 .. '!messages!ze8fxoQvTGqQFzEC' @ 0 : 0; will stop at '!messages!ze8fxoQvTGqQFzEC' @ 16341 : 1
-2023/11/08-22:57:42.102302 7f7d63f0a0 Compacting 1@0 + 1@1 files
-2023/11/08-22:57:42.135506 7f7d63f0a0 Generated table #322@0: 2284 keys, 157520 bytes
-2023/11/08-22:57:42.135599 7f7d63f0a0 Compacted 1@0 + 1@1 files => 157520 bytes
-2023/11/08-22:57:42.142190 7f7d63f0a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/08-22:57:42.142528 7f7d63f0a0 Delete type=2 #309
-2023/11/08-22:57:42.142893 7f7d63f0a0 Delete type=2 #321
-2023/11/08-22:57:42.168025 7f7d63f0a0 Manual compaction at level-0 from '!messages!ze8fxoQvTGqQFzEC' @ 16341 : 1 .. '!messages!ze8fxoQvTGqQFzEC' @ 0 : 0; will stop at (end)
-2023/11/08-22:57:42.289789 7f7d63f0a0 Manual compaction at level-1 from '!messages!0HZ2ai2GLUTOLOQo' @ 72057594037927935 : 1 .. '!messages!ze8fxoQvTGqQFzEC' @ 0 : 0; will stop at '!messages!zy1cLOhdALnbKOfL' @ 16264 : 0
-2023/11/08-22:57:42.289831 7f7d63f0a0 Compacting 1@1 + 1@2 files
-2023/11/08-22:57:42.325312 7f7d63f0a0 Generated table #323@1: 185 keys, 96479 bytes
-2023/11/08-22:57:42.325405 7f7d63f0a0 Compacted 1@1 + 1@2 files => 96479 bytes
-2023/11/08-22:57:42.330653 7f7d63f0a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/08-22:57:42.330992 7f7d63f0a0 Delete type=2 #322
-2023/11/08-22:57:42.331625 7f7d63f0a0 Delete type=2 #305
-2023/11/08-22:57:42.407743 7f7d63f0a0 Manual compaction at level-1 from '!messages!zy1cLOhdALnbKOfL' @ 16264 : 0 .. '!messages!ze8fxoQvTGqQFzEC' @ 0 : 0; will stop at (end)
+2024/01/20-00:53:53.258 7a0 Recovering log #530
+2024/01/20-00:53:53.261 7a0 Level-0 table #532: started
+2024/01/20-00:53:53.267 7a0 Level-0 table #532: 132258 bytes OK
+2024/01/20-00:53:53.273 7a0 Delete type=0 #530
+2024/01/20-00:53:53.273 7a0 Delete type=3 #528
