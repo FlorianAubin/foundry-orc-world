@@ -1,5 +1,5 @@
-2024/01/20-00:53:53.368 2d60 Recovering log #500
-2024/01/20-00:53:53.369 2d60 Level-0 table #502: started
-2024/01/20-00:53:53.371 2d60 Level-0 table #502: 5605 bytes OK
-2024/01/20-00:53:53.377 2d60 Delete type=0 #500
-2024/01/20-00:53:53.377 2d60 Delete type=3 #498
+2024/04/02-21:12:18.538 a5c Recovering log #573
+2024/04/02-21:12:18.540 a5c Level-0 table #575: started
+2024/04/02-21:12:18.543 a5c Level-0 table #575: 89491 bytes OK
+2024/04/02-21:12:18.547 a5c Delete type=0 #573
+2024/04/02-21:12:18.547 a5c Delete type=3 #571
