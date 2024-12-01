@@ -1,9 +1,14 @@
-2024/04/03-18:02:24.675807 7faafdf0a0 Recovering log #506
-2024/04/03-18:02:24.774616 7faafdf0a0 Delete type=0 #506
-2024/04/03-18:02:24.774800 7faafdf0a0 Delete type=0 #447
-2024/04/03-18:02:24.774935 7faafdf0a0 Delete type=3 #445
-2024/04/03-18:02:24.775108 7faafdf0a0 Delete type=3 #505
-2024/04/03-18:04:06.570301 7fa14680a0 Level-0 table #510: started
-2024/04/03-18:04:06.570450 7fa14680a0 Level-0 table #510: 0 bytes OK
-2024/04/03-18:04:06.595393 7fa14680a0 Delete type=0 #508
-2024/04/03-18:04:06.967187 7fa14680a0 Manual compaction at level-0 from '!combats!TNW6t9yw4IBoYwKB' @ 72057594037927935 : 1 .. '!combats.combatants!XBmXvREQzOJd2trl.ulMGyFCLIo17iMKZ' @ 0 : 0; will stop at (end)
+2024/11/26-23:27:45.818 7c54 Recovering log #602
+2024/11/26-23:27:45.822 7c54 Delete type=0 #602
+2024/11/26-23:27:45.823 7c54 Delete type=3 #601
+2024/11/26-23:27:54.588 88a8 Level-0 table #606: started
+2024/11/26-23:27:54.588 88a8 Level-0 table #606: 0 bytes OK
+2024/11/26-23:27:54.589 88a8 Delete type=0 #604
+2024/11/26-23:27:54.591 88a8 Manual compaction at level-0 from '!combats!TNW6t9yw4IBoYwKB' @ 72057594037927935 : 1 .. '!combats.combatants!XBmXvREQzOJd2trl.ulMGyFCLIo17iMKZ' @ 0 : 0; will stop at '!combats.combatants!4AauwdfgPOZN2AMF.pha6ZBQgdvhjtDle' @ 890 : 1
+2024/11/26-23:27:54.591 88a8 Compacting 1@0 + 1@1 files
+2024/11/26-23:27:54.594 88a8 Generated table #607@0: 9 keys, 1232 bytes
+2024/11/26-23:27:54.594 88a8 Compacted 1@0 + 1@1 files => 1232 bytes
+2024/11/26-23:27:54.595 88a8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/26-23:27:54.595 88a8 Delete type=2 #593
+2024/11/26-23:27:54.597 88a8 Delete type=2 #597
+2024/11/26-23:27:54.605 88a8 Manual compaction at level-0 from '!combats.combatants!4AauwdfgPOZN2AMF.pha6ZBQgdvhjtDle' @ 890 : 1 .. '!combats.combatants!XBmXvREQzOJd2trl.ulMGyFCLIo17iMKZ' @ 0 : 0; will stop at (end)

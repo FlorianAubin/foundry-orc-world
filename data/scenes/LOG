@@ -1,27 +1,3 @@
-2024/04/03-18:04:51.774728 7faafdf0a0 Recovering log #631
-2024/04/03-18:04:51.798680 7faafdf0a0 Delete type=0 #631
-2024/04/03-18:04:51.798843 7faafdf0a0 Delete type=3 #629
-2024/04/03-21:34:00.007063 7fa14680a0 Level-0 table #636: started
-2024/04/03-21:34:00.351092 7fa14680a0 Level-0 table #636: 3632006 bytes OK
-2024/04/03-21:34:00.359203 7fa14680a0 Delete type=0 #634
-2024/04/03-21:34:44.441511 7fa14680a0 Compacting 1@0 + 1@1 files
-2024/04/03-21:34:44.547455 7fa14680a0 Generated table #637@0: 4847 keys, 572757 bytes
-2024/04/03-21:34:44.547924 7fa14680a0 Compacted 1@0 + 1@1 files => 572757 bytes
-2024/04/03-21:34:44.556784 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/03-21:34:44.557560 7fa14680a0 Delete type=2 #620
-2024/04/03-21:34:44.559622 7fa14680a0 Delete type=2 #636
-2024/04/03-22:05:12.286717 7fa14680a0 Level-0 table #639: started
-2024/04/03-22:05:12.617996 7fa14680a0 Level-0 table #639: 3618637 bytes OK
-2024/04/03-22:05:12.626144 7fa14680a0 Delete type=0 #635
-2024/04/03-22:14:40.789946 7fa14680a0 Level-0 table #641: started
-2024/04/03-22:14:40.820810 7fa14680a0 Level-0 table #641: 204990 bytes OK
-2024/04/03-22:14:40.828814 7fa14680a0 Delete type=0 #638
-2024/04/03-22:14:40.867097 7fa14680a0 Manual compaction at level-0 from '!scenes!05rWWgKhcNMnOehq' @ 72057594037927935 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at '!scenes.tokens.delta.items!vRC34BjvpA38Ls3u.eHRfoBTtvTx97oZM.eHRfoBTtvTx97oZM.dvOHvuqafKISxrL0' @ 32005 : 1
-2024/04/03-22:14:40.867157 7fa14680a0 Compacting 2@0 + 1@1 files
-2024/04/03-22:14:40.960275 7fa14680a0 Generated table #642@0: 4865 keys, 576348 bytes
-2024/04/03-22:14:40.960391 7fa14680a0 Compacted 2@0 + 1@1 files => 576348 bytes
-2024/04/03-22:14:40.967697 7fa14680a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/03-22:14:40.968612 7fa14680a0 Delete type=2 #639
-2024/04/03-22:14:40.972390 7fa14680a0 Delete type=2 #637
-2024/04/03-22:14:40.973360 7fa14680a0 Delete type=2 #641
-2024/04/03-22:14:40.992086 7fa14680a0 Manual compaction at level-0 from '!scenes.tokens.delta.items!vRC34BjvpA38Ls3u.eHRfoBTtvTx97oZM.eHRfoBTtvTx97oZM.dvOHvuqafKISxrL0' @ 32005 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at (end)
+2024/12/01-11:01:35.187 bbc Recovering log #745
+2024/12/01-11:01:35.197 bbc Delete type=0 #745
+2024/12/01-11:01:35.198 bbc Delete type=3 #743
