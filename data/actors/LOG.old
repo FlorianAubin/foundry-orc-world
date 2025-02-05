@@ -1,7 +1,35 @@
-2024/11/26-23:27:45.764 70d8 Recovering log #861
-2024/11/26-23:27:45.768 70d8 Delete type=0 #861
-2024/11/26-23:27:45.770 70d8 Delete type=3 #859
-2024/11/26-23:27:54.583 88a8 Level-0 table #866: started
-2024/11/26-23:27:54.583 88a8 Level-0 table #866: 0 bytes OK
-2024/11/26-23:27:54.585 88a8 Delete type=0 #864
-2024/11/26-23:27:54.591 88a8 Manual compaction at level-0 from '!actors!0WKCXdCrjAsyZSpo' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
+2025/02/04-18:42:32.870 5dcc Recovering log #1163
+2025/02/04-18:42:32.905 5dcc Level-0 table #1167: started
+2025/02/04-18:42:32.917 5dcc Level-0 table #1167: 394636 bytes OK
+2025/02/04-18:42:32.937 5dcc Delete type=0 #1163
+2025/02/04-18:42:32.937 5dcc Delete type=3 #1161
+2025/02/04-18:42:35.891 2b48 Compacting 1@0 + 2@1 files
+2025/02/04-18:42:35.940 2b48 Generated table #1169@0: 2758 keys, 2133932 bytes
+2025/02/04-18:42:35.945 2b48 Generated table #1170@0: 540 keys, 285816 bytes
+2025/02/04-18:42:35.945 2b48 Compacted 1@0 + 2@1 files => 2419748 bytes
+2025/02/04-18:42:35.946 2b48 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/02/04-18:42:35.946 2b48 Delete type=2 #1164
+2025/02/04-18:42:35.946 2b48 Delete type=2 #1165
+2025/02/04-18:42:35.947 2b48 Delete type=2 #1167
+2025/02/04-19:34:21.884 2b48 Level-0 table #1172: started
+2025/02/04-19:34:21.906 2b48 Level-0 table #1172: 2025254 bytes OK
+2025/02/04-19:34:21.908 2b48 Delete type=0 #1168
+2025/02/04-19:35:00.259 2b48 Compacting 1@0 + 2@1 files
+2025/02/04-19:35:00.288 2b48 Generated table #1173@0: 2754 keys, 2132107 bytes
+2025/02/04-19:35:00.295 2b48 Generated table #1174@0: 547 keys, 288288 bytes
+2025/02/04-19:35:00.295 2b48 Compacted 1@0 + 2@1 files => 2420395 bytes
+2025/02/04-19:35:00.295 2b48 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/02/04-19:35:00.296 2b48 Delete type=2 #1169
+2025/02/04-19:35:00.296 2b48 Delete type=2 #1170
+2025/02/04-19:35:00.296 2b48 Delete type=2 #1172
+2025/02/04-20:02:09.701 2b48 Level-0 table #1176: started
+2025/02/04-20:02:09.720 2b48 Level-0 table #1176: 2015430 bytes OK
+2025/02/04-20:02:09.722 2b48 Delete type=0 #1171
+2025/02/04-20:02:49.050 2b48 Compacting 1@0 + 2@1 files
+2025/02/04-20:02:49.079 2b48 Generated table #1177@0: 2773 keys, 2132868 bytes
+2025/02/04-20:02:49.085 2b48 Generated table #1178@0: 573 keys, 290748 bytes
+2025/02/04-20:02:49.085 2b48 Compacted 1@0 + 2@1 files => 2423616 bytes
+2025/02/04-20:02:49.086 2b48 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/02/04-20:02:49.086 2b48 Delete type=2 #1173
+2025/02/04-20:02:49.087 2b48 Delete type=2 #1174
+2025/02/04-20:02:49.087 2b48 Delete type=2 #1176
