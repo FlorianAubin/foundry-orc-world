@@ -1,5 +1,3 @@
-2025/02/05-20:48:21.777 4dcc Recovering log #941
-2025/02/05-20:48:21.777 4dcc Level-0 table #944: started
-2025/02/05-20:48:21.779 4dcc Level-0 table #944: 6585 bytes OK
-2025/02/05-20:48:21.783 4dcc Delete type=0 #941
-2025/02/05-20:48:21.783 4dcc Delete type=3 #939
+2025/03/15-14:31:55.399057 7f9d6bf0a0 Recovering log #993
+2025/03/15-14:31:55.421540 7f9d6bf0a0 Delete type=3 #991
+2025/03/15-14:31:55.421762 7f9d6bf0a0 Delete type=0 #993

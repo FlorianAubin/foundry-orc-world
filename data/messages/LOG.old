@@ -1,14 +1,7 @@
-2025/02/04-18:42:32.990 5dd8 Recovering log #948
-2025/02/04-18:42:32.992 5dd8 Level-0 table #950: started
-2025/02/04-18:42:32.995 5dd8 Level-0 table #950: 47273 bytes OK
-2025/02/04-18:42:33.001 5dd8 Delete type=0 #948
-2025/02/04-18:42:33.001 5dd8 Delete type=3 #946
-2025/02/04-18:42:33.001 2b48 Compacting 4@0 + 1@1 files
-2025/02/04-18:42:33.015 2b48 Generated table #952@0: 760 keys, 440264 bytes
-2025/02/04-18:42:33.015 2b48 Compacted 4@0 + 1@1 files => 440264 bytes
-2025/02/04-18:42:33.016 2b48 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/04-18:42:33.016 2b48 Delete type=2 #933
-2025/02/04-18:42:33.016 2b48 Delete type=2 #939
-2025/02/04-18:42:33.016 2b48 Delete type=2 #942
-2025/02/04-18:42:33.016 2b48 Delete type=2 #947
-2025/02/04-18:42:33.016 2b48 Delete type=2 #950
+2025/03/13-08:05:02.038014 7f9d6bf0a0 Recovering log #998
+2025/03/13-08:05:02.061324 7f9d6bf0a0 Delete type=0 #998
+2025/03/13-08:05:02.061495 7f9d6bf0a0 Delete type=3 #996
+2025/03/13-08:05:26.440713 7e676bf0a0 Level-0 table #1003: started
+2025/03/13-08:05:26.440823 7e676bf0a0 Level-0 table #1003: 0 bytes OK
+2025/03/13-08:05:26.447814 7e676bf0a0 Delete type=0 #1001
+2025/03/13-08:05:26.470454 7e676bf0a0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

@@ -1,3 +1,7 @@
-2025/02/04-18:42:33.016 5dcc Recovering log #806
-2025/02/04-18:42:33.022 5dcc Delete type=0 #806
-2025/02/04-18:42:33.022 5dcc Delete type=3 #805
+2025/03/13-08:05:02.083176 7f8f7ef0a0 Recovering log #852
+2025/03/13-08:05:02.107507 7f8f7ef0a0 Delete type=3 #850
+2025/03/13-08:05:02.107733 7f8f7ef0a0 Delete type=0 #852
+2025/03/13-08:05:26.414742 7e676bf0a0 Level-0 table #857: started
+2025/03/13-08:05:26.414853 7e676bf0a0 Level-0 table #857: 0 bytes OK
+2025/03/13-08:05:26.422890 7e676bf0a0 Delete type=0 #855
+2025/03/13-08:05:26.430722 7e676bf0a0 Manual compaction at level-0 from '!combats!TNW6t9yw4IBoYwKB' @ 72057594037927935 : 1 .. '!combats.combatants!fk1VIyKPfkesBHrs.xiQ72T3tOYstelnz' @ 0 : 0; will stop at (end)
