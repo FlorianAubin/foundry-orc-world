@@ -1,1 +1,4 @@
-2025/03/22-12:45:36.405 5fcc Delete type=3 #1
+2025/04/09-18:39:00.902 6ee0 Log #827: 0 ops saved to Table #828 OK
+2025/04/09-18:39:00.902 6ee0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/cards/000827.log: OK
+2025/04/09-18:39:00.904 6ee0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/cards/MANIFEST-000826: OK
+2025/04/09-18:39:00.906 6ee0 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

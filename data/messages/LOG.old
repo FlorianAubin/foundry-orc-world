@@ -1,9 +1,6 @@
-2025/03/22-12:45:36.423 1980 Delete type=3 #1
-2025/03/22-12:45:36.424 2cbc Compacting 4@0 + 0@1 files
-2025/03/22-12:45:36.430 2cbc Generated table #1012@0: 363 keys, 209545 bytes
-2025/03/22-12:45:36.430 2cbc Compacted 4@0 + 0@1 files => 209545 bytes
-2025/03/22-12:45:36.432 2cbc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/22-12:45:36.432 2cbc Delete type=2 #987
-2025/03/22-12:45:36.433 2cbc Delete type=2 #991
-2025/03/22-12:45:36.433 2cbc Delete type=2 #1007
-2025/03/22-12:45:36.433 2cbc Delete type=2 #1009
+2025/04/09-18:39:00.921 6dc4 Log #1014: 619 ops saved to Table #1015 OK
+2025/04/09-18:39:00.921 6dc4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages/001014.log: OK
+2025/04/09-18:39:00.922 6dc4 Table #1012: 363 entries OK
+2025/04/09-18:39:00.922 6dc4 Table #1015: 619 entries OK
+2025/04/09-18:39:00.924 6dc4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages/MANIFEST-001013: OK
+2025/04/09-18:39:00.928 6dc4 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages; recovered 2 files; 315702 bytes. Some data may have been lost. ****

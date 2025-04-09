@@ -1,1 +1,5 @@
-2025/03/22-12:45:36.563 69bc Delete type=3 #1
+2025/04/09-18:39:01.069 6ee0 Log #828: 0 ops saved to Table #829 OK
+2025/04/09-18:39:01.069 6ee0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/playlists/000828.log: OK
+2025/04/09-18:39:01.069 6ee0 Table #450: 4 entries OK
+2025/04/09-18:39:01.071 6ee0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/playlists/MANIFEST-000827: OK
+2025/04/09-18:39:01.072 6ee0 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/playlists; recovered 1 files; 573 bytes. Some data may have been lost. ****
