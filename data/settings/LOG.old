@@ -1,7 +1,1 @@
-2025/03/22-12:45:36.619 6a30 Log #1184: 2 ops saved to Table #1185 OK
-2025/03/22-12:45:36.619 6a30 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/settings/001184.log: OK
-2025/03/22-12:45:36.619 6a30 Table #1179: 21 entries OK
-2025/03/22-12:45:36.619 6a30 Table #1183: 2 entries OK
-2025/03/22-12:45:36.619 6a30 Table #1185: 2 entries OK
-2025/03/22-12:45:36.621 6a30 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/settings/MANIFEST-001182: OK
-2025/03/22-12:45:36.623 6a30 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/settings; recovered 3 files; 15358 bytes. Some data may have been lost. ****
+2025/03/22-12:45:36.628 6a30 Delete type=3 #1

@@ -1,7 +1,3 @@
-2025/03/22-12:45:36.536 1980 Delete type=3 #1
-2025/03/22-12:47:47.742 2cbc Compacting 2@0 + 0@1 files
-2025/03/22-12:47:47.749 2cbc Generated table #975@0: 194 keys, 189341 bytes
-2025/03/22-12:47:47.749 2cbc Compacted 2@0 + 0@1 files => 189341 bytes
-2025/03/22-12:47:47.751 2cbc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/22-12:47:47.751 2cbc Delete type=2 #971
-2025/03/22-12:47:47.751 2cbc Delete type=2 #972
+2025/04/06-17:24:06.876445 7f8efdf0a0 Recovering log #974
+2025/04/06-17:24:06.898075 7f8efdf0a0 Delete type=3 #973
+2025/04/06-17:24:06.898296 7f8efdf0a0 Delete type=0 #974

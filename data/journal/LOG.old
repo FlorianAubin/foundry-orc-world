@@ -1,6 +1,7 @@
-2025/03/22-12:45:36.525 1980 Log #970: 2 ops saved to Table #972 OK
-2025/03/22-12:45:36.526 1980 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/000970.log: OK
-2025/03/22-12:45:36.527 1980 Table #971: 194 entries OK
-2025/03/22-12:45:36.527 1980 Table #972: 2 entries OK
-2025/03/22-12:45:36.529 1980 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/MANIFEST-000968: OK
-2025/03/22-12:45:36.531 1980 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal; recovered 2 files; 190291 bytes. Some data may have been lost. ****
+2025/03/22-12:45:36.536 1980 Delete type=3 #1
+2025/03/22-12:47:47.742 2cbc Compacting 2@0 + 0@1 files
+2025/03/22-12:47:47.749 2cbc Generated table #975@0: 194 keys, 189341 bytes
+2025/03/22-12:47:47.749 2cbc Compacted 2@0 + 0@1 files => 189341 bytes
+2025/03/22-12:47:47.751 2cbc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/22-12:47:47.751 2cbc Delete type=2 #971
+2025/03/22-12:47:47.751 2cbc Delete type=2 #972

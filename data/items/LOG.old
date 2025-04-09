@@ -1,7 +1,1 @@
-2025/03/22-12:45:36.506 5fcc Log #999: 37 ops saved to Table #1000 OK
-2025/03/22-12:45:36.506 5fcc Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/items/000999.log: OK
-2025/03/22-12:45:36.507 5fcc Table #970: 676 entries OK
-2025/03/22-12:45:36.507 5fcc Table #998: 306 entries OK
-2025/03/22-12:45:36.507 5fcc Table #1000: 37 entries OK
-2025/03/22-12:45:36.509 5fcc Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/items/MANIFEST-000997: OK
-2025/03/22-12:45:36.512 5fcc **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/items; recovered 3 files; 483650 bytes. Some data may have been lost. ****
+2025/03/22-12:45:36.517 5fcc Delete type=3 #1

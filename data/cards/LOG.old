@@ -1,4 +1,1 @@
-2025/03/22-12:45:36.395 5fcc Log #822: 0 ops saved to Table #823 OK
-2025/03/22-12:45:36.395 5fcc Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/cards/000822.log: OK
-2025/03/22-12:45:36.398 5fcc Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/cards/MANIFEST-000821: OK
-2025/03/22-12:45:36.400 5fcc **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/03/22-12:45:36.405 5fcc Delete type=3 #1

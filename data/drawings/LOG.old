@@ -1,4 +1,1 @@
-2025/03/22-12:45:36.448 69bc Log #822: 0 ops saved to Table #823 OK
-2025/03/22-12:45:36.448 69bc Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings/000822.log: OK
-2025/03/22-12:45:36.450 69bc Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings/MANIFEST-000821: OK
-2025/03/22-12:45:36.453 69bc **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/03/22-12:45:36.457 69bc Delete type=3 #1
