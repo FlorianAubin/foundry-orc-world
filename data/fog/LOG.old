@@ -1,7 +1,3 @@
-2025/04/09-18:39:00.964 6ee0 Log #921: 0 ops saved to Table #922 OK
-2025/04/09-18:39:00.964 6ee0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/fog/000921.log: OK
-2025/04/09-18:39:00.964 6ee0 Table #873: 1 entries OK
-2025/04/09-18:39:00.973 6ee0 Table #918: 37 entries OK
-2025/04/09-18:39:00.973 6ee0 Table #920: 2 entries OK
-2025/04/09-18:39:00.976 6ee0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/fog/MANIFEST-000919: OK
-2025/04/09-18:39:00.977 6ee0 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/fog; recovered 3 files; 2220338 bytes. Some data may have been lost. ****
+2025/04/09-19:05:49.385 6ab8 Recovering log #924
+2025/04/09-19:05:49.389 6ab8 Delete type=0 #924
+2025/04/09-19:05:49.389 6ab8 Delete type=3 #923
