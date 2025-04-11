@@ -1,3 +1,7 @@
-2025/04/10-22:16:38.602 5234 Recovering log #898
-2025/04/10-22:16:38.605 5234 Delete type=0 #898
-2025/04/10-22:16:38.605 5234 Delete type=3 #897
+2025/04/11-16:11:10.779 78c4 Log #902: 0 ops saved to Table #903 OK
+2025/04/11-16:11:10.780 78c4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/folders/000902.log: OK
+2025/04/11-16:11:10.780 78c4 Table #871: 142 entries OK
+2025/04/11-16:11:10.781 78c4 Table #887: 2 entries OK
+2025/04/11-16:11:10.781 78c4 Table #894: 2 entries OK
+2025/04/11-16:11:10.784 78c4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/folders/MANIFEST-000901: OK
+2025/04/11-16:11:10.788 78c4 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/folders; recovered 3 files; 16825 bytes. Some data may have been lost. ****
