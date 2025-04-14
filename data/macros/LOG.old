@@ -1,6 +1,1 @@
-2025/04/11-16:11:10.884 777c Log #840: 0 ops saved to Table #841 OK
-2025/04/11-16:11:10.884 777c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros/000840.log: OK
-2025/04/11-16:11:10.885 777c Table #352: 6 entries OK
-2025/04/11-16:11:10.886 777c Table #516: 1 entries OK
-2025/04/11-16:11:10.893 777c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros/MANIFEST-000839: OK
-2025/04/11-16:11:10.902 777c **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros; recovered 2 files; 1317 bytes. Some data may have been lost. ****
+2025/04/11-16:11:10.911 75f8 Delete type=3 #1
