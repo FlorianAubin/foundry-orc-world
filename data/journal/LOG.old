@@ -1,21 +1,5 @@
-2025/04/14-07:06:15.031865 7f7ffff0a0 Recovering log #989
-2025/04/14-07:06:15.053774 7f7ffff0a0 Delete type=3 #988
-2025/04/14-07:06:15.054014 7f7ffff0a0 Delete type=0 #989
-2025/04/14-11:24:35.030742 7f6ef590a0 Compacting 3@0 + 0@1 files
-2025/04/14-11:24:35.078762 7f6ef590a0 Generated table #992@0: 199 keys, 226696 bytes
-2025/04/14-11:24:35.078882 7f6ef590a0 Compacted 3@0 + 0@1 files => 226696 bytes
-2025/04/14-11:24:35.085320 7f6ef590a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/14-11:24:35.085844 7f6ef590a0 Delete type=2 #987
-2025/04/14-11:24:35.096965 7f6ef590a0 Delete type=2 #978
-2025/04/14-11:24:35.105709 7f6ef590a0 Delete type=2 #975
-2025/04/15-18:59:39.249541 7f6ef590a0 Level-0 table #994: started
-2025/04/15-18:59:39.265829 7f6ef590a0 Level-0 table #994: 58075 bytes OK
-2025/04/15-18:59:39.272603 7f6ef590a0 Delete type=0 #991
-2025/04/15-18:59:39.339772 7f6ef590a0 Manual compaction at level-0 from '!journal!2bPyQfxBetPj30Sa' @ 72057594037927935 : 1 .. '!journal.pages!zqLANpG2JOTmkGOe.BD9IC2RkWH7oYD2f' @ 0 : 0; will stop at '!journal.pages!phzcoTGXrUiqX8pz.vdjdOdJAs1tot08j' @ 9495 : 1
-2025/04/15-18:59:39.339824 7f6ef590a0 Compacting 1@0 + 1@1 files
-2025/04/15-18:59:39.379080 7f6ef590a0 Generated table #995@0: 199 keys, 228061 bytes
-2025/04/15-18:59:39.379196 7f6ef590a0 Compacted 1@0 + 1@1 files => 228061 bytes
-2025/04/15-18:59:39.384607 7f6ef590a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/15-18:59:39.384966 7f6ef590a0 Delete type=2 #994
-2025/04/15-18:59:39.385497 7f6ef590a0 Delete type=2 #992
-2025/04/15-18:59:39.410149 7f6ef590a0 Manual compaction at level-0 from '!journal.pages!phzcoTGXrUiqX8pz.vdjdOdJAs1tot08j' @ 9495 : 1 .. '!journal.pages!zqLANpG2JOTmkGOe.BD9IC2RkWH7oYD2f' @ 0 : 0; will stop at (end)
+2025/04/16-19:58:45.215 5c10 Log #997: 0 ops saved to Table #998 OK
+2025/04/16-19:58:45.215 5c10 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/000997.log: OK
+2025/04/16-19:58:45.215 5c10 Table #995: 199 entries OK
+2025/04/16-19:58:45.217 5c10 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/MANIFEST-000996: OK
+2025/04/16-19:58:45.220 5c10 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal; recovered 1 files; 228061 bytes. Some data may have been lost. ****

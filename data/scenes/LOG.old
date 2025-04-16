@@ -1,22 +1,6 @@
-2025/04/14-07:06:15.370012 7f7ffff0a0 Recovering log #1041
-2025/04/14-07:06:15.380742 7f7ffff0a0 Level-0 table #1043: started
-2025/04/14-07:06:15.398961 7f7ffff0a0 Level-0 table #1043: 38825 bytes OK
-2025/04/14-07:06:15.422775 7f7ffff0a0 Delete type=3 #1040
-2025/04/14-07:06:15.423033 7f7ffff0a0 Delete type=0 #1041
-2025/04/14-07:06:22.653378 7f6ef590a0 Compacting 2@0 + 0@1 files
-2025/04/14-07:06:22.751594 7f6ef590a0 Generated table #1045@0: 4880 keys, 590745 bytes
-2025/04/14-07:06:22.751730 7f6ef590a0 Compacted 2@0 + 0@1 files => 590745 bytes
-2025/04/14-07:06:22.760169 7f6ef590a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/14-07:06:22.760706 7f6ef590a0 Delete type=2 #1043
-2025/04/14-07:06:22.761820 7f6ef590a0 Delete type=2 #1032
-2025/04/15-18:59:39.456018 7f6ef590a0 Level-0 table #1047: started
-2025/04/15-18:59:39.488626 7f6ef590a0 Level-0 table #1047: 220261 bytes OK
-2025/04/15-18:59:39.506400 7f6ef590a0 Delete type=0 #1044
-2025/04/15-18:59:39.548002 7f6ef590a0 Manual compaction at level-0 from '!scenes!05rWWgKhcNMnOehq' @ 72057594037927935 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at '!scenes.tokens.delta.items!N28WCG33YZ79e4m6.y2kfmKppEfslbqpY.wAJXVzQVbqQMr3O7.q2SB2yPm8HbcDyFs' @ 36502 : 1
-2025/04/15-18:59:39.548054 7f6ef590a0 Compacting 1@0 + 1@1 files
-2025/04/15-18:59:39.640374 7f6ef590a0 Generated table #1048@0: 4875 keys, 590801 bytes
-2025/04/15-18:59:39.640483 7f6ef590a0 Compacted 1@0 + 1@1 files => 590801 bytes
-2025/04/15-18:59:39.646326 7f6ef590a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/15-18:59:39.646798 7f6ef590a0 Delete type=2 #1045
-2025/04/15-18:59:39.648352 7f6ef590a0 Delete type=2 #1047
-2025/04/15-18:59:39.679889 7f6ef590a0 Manual compaction at level-0 from '!scenes.tokens.delta.items!N28WCG33YZ79e4m6.y2kfmKppEfslbqpY.wAJXVzQVbqQMr3O7.q2SB2yPm8HbcDyFs' @ 36502 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at (end)
+2025/04/16-19:58:45.277 5c10 Log #1050: 8 ops saved to Table #1051 OK
+2025/04/16-19:58:45.277 5c10 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/001050.log: OK
+2025/04/16-19:58:45.279 5c10 Table #1048: 4875 entries OK
+2025/04/16-19:58:45.279 5c10 Table #1051: 8 entries OK
+2025/04/16-19:58:45.280 5c10 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/MANIFEST-001049: OK
+2025/04/16-19:58:45.283 5c10 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes; recovered 2 files; 593285 bytes. Some data may have been lost. ****

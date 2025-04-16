@@ -1,16 +1,5 @@
-2025/04/14-07:06:14.615870 7f7ffff0a0 Recovering log #879
-2025/04/14-07:06:14.639943 7f7ffff0a0 Delete type=3 #878
-2025/04/14-07:06:14.640191 7f7ffff0a0 Delete type=0 #879
-2025/04/15-18:59:38.594544 7f6ef590a0 Level-0 table #883: started
-2025/04/15-18:59:38.604826 7f6ef590a0 Level-0 table #883: 1715 bytes OK
-2025/04/15-18:59:38.611388 7f6ef590a0 Delete type=0 #881
-2025/04/15-18:59:38.930946 7f6ef590a0 Manual compaction at level-0 from '!combats!6jDLKQQKtdUkbEHq' @ 72057594037927935 : 1 .. '!combats.combatants!XBmXvREQzOJd2trl.ulMGyFCLIo17iMKZ' @ 0 : 0; will stop at '!combats.combatants!fk1VIyKPfkesBHrs.xiQ72T3tOYstelnz' @ 1587 : 0
-2025/04/15-18:59:38.930998 7f6ef590a0 Compacting 4@0 + 0@1 files
-2025/04/15-18:59:38.943338 7f6ef590a0 Generated table #884@0: 11 keys, 1474 bytes
-2025/04/15-18:59:38.943434 7f6ef590a0 Compacted 4@0 + 0@1 files => 1474 bytes
-2025/04/15-18:59:38.948640 7f6ef590a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/15-18:59:38.948956 7f6ef590a0 Delete type=2 #883
-2025/04/15-18:59:38.949296 7f6ef590a0 Delete type=2 #825
-2025/04/15-18:59:38.962304 7f6ef590a0 Delete type=2 #866
-2025/04/15-18:59:38.962612 7f6ef590a0 Delete type=2 #862
-2025/04/15-18:59:38.989080 7f6ef590a0 Manual compaction at level-0 from '!combats.combatants!fk1VIyKPfkesBHrs.xiQ72T3tOYstelnz' @ 1587 : 0 .. '!combats.combatants!XBmXvREQzOJd2trl.ulMGyFCLIo17iMKZ' @ 0 : 0; will stop at (end)
+2025/04/16-19:58:45.140 5c0c Log #886: 0 ops saved to Table #887 OK
+2025/04/16-19:58:45.140 5c0c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/combats/000886.log: OK
+2025/04/16-19:58:45.140 5c0c Table #884: 11 entries OK
+2025/04/16-19:58:45.143 5c0c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/combats/MANIFEST-000885: OK
+2025/04/16-19:58:45.145 5c0c **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/combats; recovered 1 files; 1474 bytes. Some data may have been lost. ****
