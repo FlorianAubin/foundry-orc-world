@@ -1,5 +1,7 @@
-2025/04/16-19:58:45.247 5c0c Log #846: 0 ops saved to Table #847 OK
-2025/04/16-19:58:45.248 5c0c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/playlists/000846.log: OK
-2025/04/16-19:58:45.248 5c0c Table #450: 4 entries OK
-2025/04/16-19:58:45.250 5c0c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/playlists/MANIFEST-000845: OK
-2025/04/16-19:58:45.252 5c0c **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/playlists; recovered 1 files; 573 bytes. Some data may have been lost. ****
+2025/04/27-15:01:36.969319 7f7efdf0a0 Recovering log #853
+2025/04/27-15:01:36.992227 7f7efdf0a0 Delete type=3 #850
+2025/04/27-15:01:36.992472 7f7efdf0a0 Delete type=0 #853
+2025/04/27-15:02:26.008249 7f6ef590a0 Level-0 table #858: started
+2025/04/27-15:02:26.008364 7f6ef590a0 Level-0 table #858: 0 bytes OK
+2025/04/27-15:02:26.014960 7f6ef590a0 Delete type=0 #856
+2025/04/27-15:02:26.023490 7f6ef590a0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

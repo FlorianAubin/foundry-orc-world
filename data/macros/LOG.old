@@ -1,6 +1,7 @@
-2025/04/16-19:58:45.228 6234 Log #850: 0 ops saved to Table #851 OK
-2025/04/16-19:58:45.228 6234 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros/000850.log: OK
-2025/04/16-19:58:45.229 6234 Table #352: 6 entries OK
-2025/04/16-19:58:45.229 6234 Table #848: 1 entries OK
-2025/04/16-19:58:45.233 6234 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros/MANIFEST-000849: OK
-2025/04/16-19:58:45.240 6234 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros; recovered 2 files; 1317 bytes. Some data may have been lost. ****
+2025/04/27-15:01:36.937821 7f7f7ef0a0 Recovering log #857
+2025/04/27-15:01:36.959890 7f7f7ef0a0 Delete type=0 #857
+2025/04/27-15:01:36.960057 7f7f7ef0a0 Delete type=3 #854
+2025/04/27-15:02:25.997559 7f6ef590a0 Level-0 table #863: started
+2025/04/27-15:02:25.997672 7f6ef590a0 Level-0 table #863: 0 bytes OK
+2025/04/27-15:02:26.007983 7f6ef590a0 Delete type=0 #861
+2025/04/27-15:02:26.023415 7f6ef590a0 Manual compaction at level-0 from '!macros!7qYN8pXVnWi4fnF8' @ 72057594037927935 : 1 .. '!macros!7qYN8pXVnWi4fnF8' @ 0 : 0; will stop at (end)
