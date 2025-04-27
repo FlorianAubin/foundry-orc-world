@@ -1,7 +1,7 @@
-2025/04/27-15:01:36.371198 7f8cb7f0a0 Recovering log #1327
-2025/04/27-15:01:36.391331 7f8cb7f0a0 Delete type=0 #1327
-2025/04/27-15:01:36.391505 7f8cb7f0a0 Delete type=3 #1324
-2025/04/27-15:02:25.913129 7f6ef590a0 Level-0 table #1333: started
-2025/04/27-15:02:25.913495 7f6ef590a0 Level-0 table #1333: 0 bytes OK
-2025/04/27-15:02:25.923143 7f6ef590a0 Delete type=0 #1331
-2025/04/27-15:02:25.951940 7f6ef590a0 Manual compaction at level-0 from '!actors!0LUGnHAvsermlOuW' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
+2025/04/27-17:54:23.686 6a2c Log #1335: 483 ops saved to Table #1336 OK
+2025/04/27-17:54:23.686 6a2c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/001335.log: OK
+2025/04/27-17:54:23.691 6a2c Table #1323: 1482 entries OK
+2025/04/27-17:54:23.695 6a2c Table #1329: 2612 entries OK
+2025/04/27-17:54:23.697 6a2c Table #1336: 483 entries OK
+2025/04/27-17:54:23.698 6a2c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/MANIFEST-001334: OK
+2025/04/27-17:54:23.701 6a2c **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors; recovered 3 files; 3830544 bytes. Some data may have been lost. ****
