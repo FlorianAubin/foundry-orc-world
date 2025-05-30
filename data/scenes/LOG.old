@@ -1,6 +1,14 @@
-2025/04/27-17:54:23.912 1ec0 Log #1066: 104 ops saved to Table #1067 OK
-2025/04/27-17:54:23.912 1ec0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/001066.log: OK
-2025/04/27-17:54:23.914 1ec0 Table #1060: 4875 entries OK
-2025/04/27-17:54:23.915 1ec0 Table #1067: 104 entries OK
-2025/04/27-17:54:23.917 1ec0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/MANIFEST-001065: OK
-2025/04/27-17:54:23.918 1ec0 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes; recovered 2 files; 649842 bytes. Some data may have been lost. ****
+2025/05/28-09:14:40.698784 7f9669f0a0 Recovering log #1092
+2025/05/28-09:14:40.729968 7f9669f0a0 Delete type=3 #1090
+2025/05/28-09:14:40.730246 7f9669f0a0 Delete type=0 #1092
+2025/05/28-18:38:32.922974 7e6f77f0a0 Level-0 table #1097: started
+2025/05/28-18:38:32.941750 7e6f77f0a0 Level-0 table #1097: 33624 bytes OK
+2025/05/28-18:38:32.948954 7e6f77f0a0 Delete type=0 #1095
+2025/05/28-18:38:33.009539 7e6f77f0a0 Manual compaction at level-0 from '!scenes!05rWWgKhcNMnOehq' @ 72057594037927935 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at '!scenes.lights!BYk3RkauQx5yfeuS.YJIssjciGcusRV9z' @ 37984 : 1
+2025/05/28-18:38:33.009599 7e6f77f0a0 Compacting 1@0 + 1@1 files
+2025/05/28-18:38:33.095026 7e6f77f0a0 Generated table #1098@0: 4977 keys, 612503 bytes
+2025/05/28-18:38:33.095126 7e6f77f0a0 Compacted 1@0 + 1@1 files => 612503 bytes
+2025/05/28-18:38:33.101103 7e6f77f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/28-18:38:33.101578 7e6f77f0a0 Delete type=2 #1085
+2025/05/28-18:38:33.102240 7e6f77f0a0 Delete type=2 #1097
+2025/05/28-18:38:33.181776 7e6f77f0a0 Manual compaction at level-0 from '!scenes.lights!BYk3RkauQx5yfeuS.YJIssjciGcusRV9z' @ 37984 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at (end)
