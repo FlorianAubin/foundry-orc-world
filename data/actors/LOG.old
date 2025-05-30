@@ -1,16 +1,6 @@
-2025/05/28-09:14:39.353615 7f96eaf0a0 Recovering log #1369
-2025/05/28-09:14:39.378897 7f96eaf0a0 Delete type=3 #1367
-2025/05/28-09:14:39.379158 7f96eaf0a0 Delete type=0 #1369
-2025/05/28-18:38:31.886651 7e6f77f0a0 Level-0 table #1374: started
-2025/05/28-18:38:31.931785 7e6f77f0a0 Level-0 table #1374: 347620 bytes OK
-2025/05/28-18:38:31.939128 7e6f77f0a0 Delete type=0 #1372
-2025/05/28-18:38:31.982555 7e6f77f0a0 Manual compaction at level-0 from '!actors!0LUGnHAvsermlOuW' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at '!actors.items!f8Qrbtu3PGXAFgaT.Koe3YMFTLqNbGQTJ' @ 98965 : 1
-2025/05/28-18:38:31.982624 7e6f77f0a0 Compacting 1@0 + 2@1 files
-2025/05/28-18:38:32.211855 7e6f77f0a0 Generated table #1375@0: 2614 keys, 2131846 bytes
-2025/05/28-18:38:32.298834 7e6f77f0a0 Generated table #1376@0: 1489 keys, 750487 bytes
-2025/05/28-18:38:32.298949 7e6f77f0a0 Compacted 1@0 + 2@1 files => 2882333 bytes
-2025/05/28-18:38:32.304452 7e6f77f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/05/28-18:38:32.304982 7e6f77f0a0 Delete type=2 #1374
-2025/05/28-18:38:32.306035 7e6f77f0a0 Delete type=2 #1361
-2025/05/28-18:38:32.307991 7e6f77f0a0 Delete type=2 #1366
-2025/05/28-18:38:32.350581 7e6f77f0a0 Manual compaction at level-0 from '!actors.items!f8Qrbtu3PGXAFgaT.Koe3YMFTLqNbGQTJ' @ 98965 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
+2025/05/30-11:39:14.220 1264 Log #1378: 0 ops saved to Table #1379 OK
+2025/05/30-11:39:14.220 1264 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/001378.log: OK
+2025/05/30-11:39:14.226 1264 Table #1375: 2614 entries OK
+2025/05/30-11:39:14.228 1264 Table #1376: 1489 entries OK
+2025/05/30-11:39:14.230 1264 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/MANIFEST-001377: OK
+2025/05/30-11:39:14.233 1264 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors; recovered 2 files; 2882333 bytes. Some data may have been lost. ****

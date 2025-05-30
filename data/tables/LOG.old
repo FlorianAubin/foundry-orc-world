@@ -1,18 +1,8 @@
-2025/05/28-09:14:40.586913 7f976bf0a0 Recovering log #895
-2025/05/28-09:14:40.611720 7f976bf0a0 Delete type=3 #893
-2025/05/28-09:14:40.611987 7f976bf0a0 Delete type=0 #895
-2025/05/28-14:04:54.550483 7e6f77f0a0 Level-0 table #900: started
-2025/05/28-14:04:54.673444 7e6f77f0a0 Level-0 table #900: 576211 bytes OK
-2025/05/28-14:04:54.680312 7e6f77f0a0 Delete type=0 #898
-2025/05/28-18:38:32.949541 7e6f77f0a0 Level-0 table #902: started
-2025/05/28-18:38:32.999142 7e6f77f0a0 Level-0 table #902: 224345 bytes OK
-2025/05/28-18:38:33.006279 7e6f77f0a0 Delete type=0 #899
-2025/05/28-18:38:33.121808 7e6f77f0a0 Manual compaction at level-0 from '!tables!11qhqS8mNiNtMxpq' @ 72057594037927935 : 1 .. '!tables.results!xw8hSuOaonEDawRi.yyRX7ne8FU48r0AJ' @ 0 : 0; will stop at '!tables.results!wkfCdjD01vywpD03.xFv9kll7bYLoBo7O' @ 12052 : 1
-2025/05/28-18:38:33.121860 7e6f77f0a0 Compacting 2@0 + 1@1 files
-2025/05/28-18:38:33.162447 7e6f77f0a0 Generated table #903@0: 288 keys, 38662 bytes
-2025/05/28-18:38:33.162539 7e6f77f0a0 Compacted 2@0 + 1@1 files => 38662 bytes
-2025/05/28-18:38:33.168703 7e6f77f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/28-18:38:33.169053 7e6f77f0a0 Delete type=2 #902
-2025/05/28-18:38:33.169762 7e6f77f0a0 Delete type=2 #880
-2025/05/28-18:38:33.170121 7e6f77f0a0 Delete type=2 #900
-2025/05/28-18:38:33.208004 7e6f77f0a0 Manual compaction at level-0 from '!tables.results!wkfCdjD01vywpD03.xFv9kll7bYLoBo7O' @ 12052 : 1 .. '!tables.results!xw8hSuOaonEDawRi.yyRX7ne8FU48r0AJ' @ 0 : 0; will stop at (end)
+2025/05/30-11:39:14.413 1264 Log #908: 808 ops saved to Table #910 OK
+2025/05/30-11:39:14.413 1264 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/tables/000908.log: OK
+2025/05/30-11:39:14.413 1264 Table #903: 288 entries OK
+2025/05/30-11:39:14.416 1264 Table #907: 18557 entries OK
+2025/05/30-11:39:14.419 1264 Table #909: 17911 entries OK
+2025/05/30-11:39:14.419 1264 Table #910: 808 entries OK
+2025/05/30-11:39:14.421 1264 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/tables/MANIFEST-000904: OK
+2025/05/30-11:39:14.422 1264 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/tables; recovered 4 files; 1200519 bytes. Some data may have been lost. ****
