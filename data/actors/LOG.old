@@ -1,6 +1,13 @@
-2025/05/30-11:39:14.220 1264 Log #1378: 0 ops saved to Table #1379 OK
-2025/05/30-11:39:14.220 1264 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/001378.log: OK
-2025/05/30-11:39:14.226 1264 Table #1375: 2614 entries OK
-2025/05/30-11:39:14.228 1264 Table #1376: 1489 entries OK
-2025/05/30-11:39:14.230 1264 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/MANIFEST-001377: OK
-2025/05/30-11:39:14.233 1264 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors; recovered 2 files; 2882333 bytes. Some data may have been lost. ****
+2025/06/02-16:55:36.164139 7f976bf0a0 Delete type=3 #1
+2025/06/04-18:46:02.082870 7e6f77f0a0 Level-0 table #1388: started
+2025/06/04-18:46:02.083085 7e6f77f0a0 Level-0 table #1388: 0 bytes OK
+2025/06/04-18:46:02.092863 7e6f77f0a0 Delete type=0 #1386
+2025/06/04-18:46:02.119137 7e6f77f0a0 Manual compaction at level-0 from '!actors!0LUGnHAvsermlOuW' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 70337 : 1
+2025/06/04-18:46:02.119192 7e6f77f0a0 Compacting 2@0 + 0@1 files
+2025/06/04-18:46:02.362201 7e6f77f0a0 Generated table #1389@0: 2618 keys, 2132777 bytes
+2025/06/04-18:46:02.455398 7e6f77f0a0 Generated table #1390@0: 1493 keys, 752566 bytes
+2025/06/04-18:46:02.455515 7e6f77f0a0 Compacted 2@0 + 0@1 files => 2885343 bytes
+2025/06/04-18:46:02.462867 7e6f77f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/06/04-18:46:02.463778 7e6f77f0a0 Delete type=2 #1381
+2025/06/04-18:46:02.468409 7e6f77f0a0 Delete type=2 #1382
+2025/06/04-18:46:02.516747 7e6f77f0a0 Manual compaction at level-0 from '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 70337 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
