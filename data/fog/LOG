@@ -1,3 +1,9 @@
-2025/07/28-07:37:20.511538 7f8efdf0a0 Recovering log #1038
-2025/07/28-07:37:20.532542 7f8efdf0a0 Delete type=3 #1036
-2025/07/28-07:37:20.532768 7f8efdf0a0 Delete type=0 #1038
+2025/07/30-00:11:12.932 4e6c Delete type=3 #1
+2025/07/30-00:11:12.932 80c Compacting 3@0 + 0@1 files
+2025/07/30-00:11:12.955 80c Generated table #1044@0: 49 keys, 2126767 bytes
+2025/07/30-00:11:12.959 80c Generated table #1045@0: 3 keys, 74973 bytes
+2025/07/30-00:11:12.959 80c Compacted 3@0 + 0@1 files => 2201740 bytes
+2025/07/30-00:11:12.962 80c compacted to: files[ 2 2 0 0 0 0 0 ]
+2025/07/30-00:11:12.962 80c Delete type=2 #1034
+2025/07/30-00:11:12.962 80c Delete type=2 #1035
+2025/07/30-00:11:12.962 80c Delete type=2 #1037
