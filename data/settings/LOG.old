@@ -1,13 +1,5 @@
-2025/06/02-16:55:37.390775 7f96eaf0a0 Delete type=3 #1
-2025/06/04-18:46:03.093882 7e6f77f0a0 Level-0 table #1279: started
-2025/06/04-18:46:03.105705 7e6f77f0a0 Level-0 table #1279: 975 bytes OK
-2025/06/04-18:46:03.113239 7e6f77f0a0 Delete type=0 #1277
-2025/06/04-18:46:03.134135 7e6f77f0a0 Manual compaction at level-0 from '!settings!0z5hfClHznaeNutL' @ 72057594037927935 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at '!settings!wvb4wWgYtWYAGkUW' @ 17 : 1
-2025/06/04-18:46:03.134777 7e6f77f0a0 Compacting 3@0 + 0@1 files
-2025/06/04-18:46:03.150413 7e6f77f0a0 Generated table #1280@0: 22 keys, 13565 bytes
-2025/06/04-18:46:03.150566 7e6f77f0a0 Compacted 3@0 + 0@1 files => 13565 bytes
-2025/06/04-18:46:03.157048 7e6f77f0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/04-18:46:03.157581 7e6f77f0a0 Delete type=2 #1275
-2025/06/04-18:46:03.158169 7e6f77f0a0 Delete type=2 #1273
-2025/06/04-18:46:03.158674 7e6f77f0a0 Delete type=2 #1279
-2025/06/04-18:46:03.192999 7e6f77f0a0 Manual compaction at level-0 from '!settings!wvb4wWgYtWYAGkUW' @ 17 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at (end)
+2025/07/19-15:28:14.771907 7f7a3cf0a0 Recovering log #1307
+2025/07/19-15:28:14.773070 7f7a3cf0a0 Level-0 table #1309: started
+2025/07/19-15:28:14.786115 7f7a3cf0a0 Level-0 table #1309: 975 bytes OK
+2025/07/19-15:28:14.811376 7f7a3cf0a0 Delete type=0 #1307
+2025/07/19-15:28:14.811664 7f7a3cf0a0 Delete type=3 #1306

@@ -1,13 +1,13 @@
-2025/06/02-16:55:36.164139 7f976bf0a0 Delete type=3 #1
-2025/06/04-18:46:02.082870 7e6f77f0a0 Level-0 table #1388: started
-2025/06/04-18:46:02.083085 7e6f77f0a0 Level-0 table #1388: 0 bytes OK
-2025/06/04-18:46:02.092863 7e6f77f0a0 Delete type=0 #1386
-2025/06/04-18:46:02.119137 7e6f77f0a0 Manual compaction at level-0 from '!actors!0LUGnHAvsermlOuW' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 70337 : 1
-2025/06/04-18:46:02.119192 7e6f77f0a0 Compacting 2@0 + 0@1 files
-2025/06/04-18:46:02.362201 7e6f77f0a0 Generated table #1389@0: 2618 keys, 2132777 bytes
-2025/06/04-18:46:02.455398 7e6f77f0a0 Generated table #1390@0: 1493 keys, 752566 bytes
-2025/06/04-18:46:02.455515 7e6f77f0a0 Compacted 2@0 + 0@1 files => 2885343 bytes
-2025/06/04-18:46:02.462867 7e6f77f0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/06/04-18:46:02.463778 7e6f77f0a0 Delete type=2 #1381
-2025/06/04-18:46:02.468409 7e6f77f0a0 Delete type=2 #1382
-2025/06/04-18:46:02.516747 7e6f77f0a0 Manual compaction at level-0 from '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 70337 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
+2025/07/19-15:28:12.585726 7f7bbff0a0 Recovering log #1420
+2025/07/19-15:28:12.701184 7f7bbff0a0 Level-0 table #1422: started
+2025/07/19-15:28:12.814084 7f7bbff0a0 Level-0 table #1422: 1112537 bytes OK
+2025/07/19-15:28:12.840499 7f7bbff0a0 Delete type=3 #1419
+2025/07/19-15:28:12.840712 7f7bbff0a0 Delete type=0 #1420
+2025/07/19-15:28:51.495748 7e49eff0a0 Compacting 1@0 + 2@1 files
+2025/07/19-15:28:51.765560 7e49eff0a0 Generated table #1424@0: 2611 keys, 2130913 bytes
+2025/07/19-15:28:51.874468 7e49eff0a0 Generated table #1425@0: 1531 keys, 771243 bytes
+2025/07/19-15:28:51.874592 7e49eff0a0 Compacted 1@0 + 2@1 files => 2902156 bytes
+2025/07/19-15:28:51.885139 7e49eff0a0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/07/19-15:28:51.886655 7e49eff0a0 Delete type=2 #1422
+2025/07/19-15:28:51.889514 7e49eff0a0 Delete type=2 #1413
+2025/07/19-15:28:51.891325 7e49eff0a0 Delete type=2 #1414
