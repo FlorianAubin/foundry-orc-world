@@ -1,7 +1,13 @@
-2025/07/30-00:11:12.812 4e6c Log #1431: 813 ops saved to Table #1435 OK
-2025/07/30-00:11:12.813 4e6c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/001431.log: OK
-2025/07/30-00:11:12.817 4e6c Table #1433: 2591 entries OK
-2025/07/30-00:11:12.819 4e6c Table #1434: 1720 entries OK
-2025/07/30-00:11:12.822 4e6c Table #1435: 813 entries OK
-2025/07/30-00:11:12.824 4e6c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/MANIFEST-001426: OK
-2025/07/30-00:11:12.826 4e6c **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors; recovered 3 files; 4293513 bytes. Some data may have been lost. ****
+2025/08/02-22:01:54.625 2330 Recovering log #1456
+2025/08/02-22:01:54.636 2330 Level-0 table #1458: started
+2025/08/02-22:01:54.645 2330 Level-0 table #1458: 848975 bytes OK
+2025/08/02-22:01:54.650 2330 Delete type=0 #1456
+2025/08/02-22:01:54.651 2330 Delete type=3 #1455
+2025/08/02-22:01:58.913 6ca4 Compacting 1@0 + 2@1 files
+2025/08/02-22:01:58.941 6ca4 Generated table #1460@0: 2580 keys, 2131195 bytes
+2025/08/02-22:01:58.955 6ca4 Generated table #1461@0: 1869 keys, 933929 bytes
+2025/08/02-22:01:58.955 6ca4 Compacted 1@0 + 2@1 files => 3065124 bytes
+2025/08/02-22:01:58.955 6ca4 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/08/02-22:01:58.957 6ca4 Delete type=2 #1451
+2025/08/02-22:01:58.957 6ca4 Delete type=2 #1452
+2025/08/02-22:01:58.957 6ca4 Delete type=2 #1458

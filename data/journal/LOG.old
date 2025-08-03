@@ -1,6 +1,11 @@
-2025/07/30-00:11:13.001 4e6c Log #1089: 312 ops saved to Table #1090 OK
-2025/07/30-00:11:13.001 4e6c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/001089.log: OK
-2025/07/30-00:11:13.002 4e6c Table #1087: 216 entries OK
-2025/07/30-00:11:13.003 4e6c Table #1090: 312 entries OK
-2025/07/30-00:11:13.005 4e6c Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/MANIFEST-001088: OK
-2025/07/30-00:11:13.008 4e6c **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal; recovered 2 files; 1086527 bytes. Some data may have been lost. ****
+2025/08/02-22:01:54.750 6284 Recovering log #1103
+2025/08/02-22:01:54.750 6284 Level-0 table #1106: started
+2025/08/02-22:01:54.752 6284 Level-0 table #1106: 18558 bytes OK
+2025/08/02-22:01:54.755 6284 Delete type=0 #1103
+2025/08/02-22:01:54.755 6284 Delete type=3 #1101
+2025/08/02-22:01:58.872 6ca4 Compacting 1@0 + 1@1 files
+2025/08/02-22:01:58.899 6ca4 Generated table #1108@0: 216 keys, 247996 bytes
+2025/08/02-22:01:58.899 6ca4 Compacted 1@0 + 1@1 files => 247996 bytes
+2025/08/02-22:01:58.901 6ca4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/02-22:01:58.901 6ca4 Delete type=2 #1104
+2025/08/02-22:01:58.902 6ca4 Delete type=2 #1106

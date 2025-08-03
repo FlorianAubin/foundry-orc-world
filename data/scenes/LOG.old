@@ -1,6 +1,3 @@
-2025/07/30-00:11:13.085 6ba4 Log #1146: 614 ops saved to Table #1147 OK
-2025/07/30-00:11:13.086 6ba4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/001146.log: OK
-2025/07/30-00:11:13.087 6ba4 Table #1144: 4969 entries OK
-2025/07/30-00:11:13.089 6ba4 Table #1147: 614 entries OK
-2025/07/30-00:11:13.095 6ba4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/MANIFEST-001145: OK
-2025/07/30-00:11:13.097 6ba4 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes; recovered 2 files; 3194206 bytes. Some data may have been lost. ****
+2025/08/02-22:01:54.788 326c Recovering log #1162
+2025/08/02-22:01:54.798 326c Delete type=0 #1162
+2025/08/02-22:01:54.798 326c Delete type=3 #1161

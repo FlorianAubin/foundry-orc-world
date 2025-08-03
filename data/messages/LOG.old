@@ -1,5 +1,5 @@
-2025/07/30-00:11:12.876 6c34 Log #1126: 164 ops saved to Table #1127 OK
-2025/07/30-00:11:12.876 6c34 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages/001126.log: OK
-2025/07/30-00:11:12.877 6c34 Table #1127: 164 entries OK
-2025/07/30-00:11:12.879 6c34 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages/MANIFEST-001124: OK
-2025/07/30-00:11:12.881 6c34 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages; recovered 1 files; 47685 bytes. Some data may have been lost. ****
+2025/08/02-22:01:54.686 326c Recovering log #1138
+2025/08/02-22:01:54.689 326c Level-0 table #1140: started
+2025/08/02-22:01:54.690 326c Level-0 table #1140: 64241 bytes OK
+2025/08/02-22:01:54.693 326c Delete type=0 #1138
+2025/08/02-22:01:54.693 326c Delete type=3 #1137
