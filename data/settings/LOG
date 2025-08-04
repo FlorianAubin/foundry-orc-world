@@ -1,17 +1,14 @@
-2025/08/04-15:55:00.523 17b0 Recovering log #1342
-2025/08/04-15:55:00.523 17b0 Level-0 table #1345: started
-2025/08/04-15:55:00.525 17b0 Level-0 table #1345: 975 bytes OK
-2025/08/04-15:55:00.529 17b0 Delete type=0 #1342
-2025/08/04-15:55:00.529 17b0 Delete type=3 #1340
-2025/08/04-15:55:15.345 310c Level-0 table #1348: started
-2025/08/04-15:55:15.347 310c Level-0 table #1348: 975 bytes OK
-2025/08/04-15:55:15.348 310c Delete type=0 #1346
-2025/08/04-15:55:15.349 310c Manual compaction at level-0 from '!settings!0z5hfClHznaeNutL' @ 72057594037927935 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at '!settings!wKEAIdKX554RXLO6' @ 752 : 1
-2025/08/04-15:55:15.349 310c Compacting 2@0 + 1@1 files
-2025/08/04-15:55:15.356 310c Generated table #1349@0: 22 keys, 13565 bytes
-2025/08/04-15:55:15.358 310c Compacted 2@0 + 1@1 files => 13565 bytes
-2025/08/04-15:55:15.362 310c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/04-15:55:15.362 310c Delete type=2 #1343
-2025/08/04-15:55:15.362 310c Delete type=2 #1345
-2025/08/04-15:55:15.362 310c Delete type=2 #1348
-2025/08/04-15:55:15.366 310c Manual compaction at level-0 from '!settings!wKEAIdKX554RXLO6' @ 752 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at (end)
+2025/08/04-16:17:38.426 88f0 Recovering log #1352
+2025/08/04-16:17:38.431 88f0 Delete type=0 #1352
+2025/08/04-16:17:38.431 88f0 Delete type=3 #1350
+2025/08/04-16:33:41.707 8c3c Level-0 table #1358: started
+2025/08/04-16:33:41.709 8c3c Level-0 table #1358: 975 bytes OK
+2025/08/04-16:33:41.710 8c3c Delete type=0 #1356
+2025/08/04-16:33:41.714 8c3c Manual compaction at level-0 from '!settings!0z5hfClHznaeNutL' @ 72057594037927935 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at '!settings!wKEAIdKX554RXLO6' @ 758 : 1
+2025/08/04-16:33:41.714 8c3c Compacting 1@0 + 1@1 files
+2025/08/04-16:33:41.719 8c3c Generated table #1359@0: 22 keys, 13565 bytes
+2025/08/04-16:33:41.719 8c3c Compacted 1@0 + 1@1 files => 13565 bytes
+2025/08/04-16:33:41.721 8c3c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/04-16:33:41.721 8c3c Delete type=2 #1354
+2025/08/04-16:33:41.721 8c3c Delete type=2 #1358
+2025/08/04-16:33:41.742 8c3c Manual compaction at level-0 from '!settings!wKEAIdKX554RXLO6' @ 758 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at (end)

@@ -1,3 +1,7 @@
-2025/08/04-15:53:28.328 25c Recovering log #988
-2025/08/04-15:53:28.333 25c Delete type=0 #988
-2025/08/04-15:53:28.333 25c Delete type=3 #987
+2025/08/04-16:15:12.046 8e8c Recovering log #993
+2025/08/04-16:15:12.050 8e8c Delete type=0 #993
+2025/08/04-16:15:12.050 8e8c Delete type=3 #991
+2025/08/04-16:17:32.785 8c3c Level-0 table #999: started
+2025/08/04-16:17:32.785 8c3c Level-0 table #999: 0 bytes OK
+2025/08/04-16:17:32.786 8c3c Delete type=0 #997
+2025/08/04-16:17:32.787 8c3c Manual compaction at level-0 from '!combats!6jDLKQQKtdUkbEHq' @ 72057594037927935 : 1 .. '!combats.combatants!XBmXvREQzOJd2trl.ulMGyFCLIo17iMKZ' @ 0 : 0; will stop at (end)
