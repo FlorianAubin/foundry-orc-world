@@ -1,3 +1,11 @@
-2025/08/04-16:31:56.921548 7f8efdf0a0 Recovering log #1128
-2025/08/04-16:31:56.943540 7f8efdf0a0 Delete type=3 #1126
-2025/08/04-16:31:56.943798 7f8efdf0a0 Delete type=0 #1128
+2025/08/06-19:19:46.258 79c0 Delete type=3 #1
+2025/08/06-19:20:57.225 7470 Compacting 2@0 + 0@1 files
+2025/08/06-19:20:57.232 7470 Generated table #1135@0: 216 keys, 248630 bytes
+2025/08/06-19:20:57.232 7470 Compacted 2@0 + 0@1 files => 248630 bytes
+2025/08/06-19:20:57.234 7470 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-19:20:57.234 7470 Delete type=2 #1125
+2025/08/06-19:20:57.234 7470 Delete type=2 #1132
+2025/08/06-19:29:25.390 7470 Level-0 table #1137: started
+2025/08/06-19:29:25.390 7470 Level-0 table #1137: 0 bytes OK
+2025/08/06-19:29:25.392 7470 Delete type=0 #1134
+2025/08/06-19:29:25.410 7470 Manual compaction at level-0 from '!journal!2bPyQfxBetPj30Sa' @ 72057594037927935 : 1 .. '!journal.pages!zqLANpG2JOTmkGOe.BD9IC2RkWH7oYD2f' @ 0 : 0; will stop at (end)
