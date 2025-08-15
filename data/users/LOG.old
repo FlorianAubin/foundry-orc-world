@@ -1,5 +1,11 @@
-2025/08/06-19:19:46.360 79c0 Log #970: 0 ops saved to Table #971 OK
-2025/08/06-19:19:46.361 79c0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/users/000970.log: OK
-2025/08/06-19:19:46.362 79c0 Table #960: 5 entries OK
-2025/08/06-19:19:46.364 79c0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/users/MANIFEST-000969: OK
-2025/08/06-19:19:46.367 79c0 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/users; recovered 1 files; 2280 bytes. Some data may have been lost. ****
+2025/08/06-19:19:46.372 79c0 Delete type=3 #1
+2025/08/06-19:29:25.429 7470 Level-0 table #975: started
+2025/08/06-19:29:25.429 7470 Level-0 table #975: 0 bytes OK
+2025/08/06-19:29:25.434 7470 Delete type=0 #973
+2025/08/06-19:29:25.453 7470 Manual compaction at level-0 from '!users!8lXxm6wrdEwGjZ1B' @ 72057594037927935 : 1 .. '!users!hAN08WVZe72WTyuk' @ 0 : 0; will stop at '!users!hAN08WVZe72WTyuk' @ 5 : 1
+2025/08/06-19:29:25.453 7470 Compacting 1@0 + 0@1 files
+2025/08/06-19:29:25.456 7470 Generated table #976@0: 5 keys, 2280 bytes
+2025/08/06-19:29:25.456 7470 Compacted 1@0 + 0@1 files => 2280 bytes
+2025/08/06-19:29:25.457 7470 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-19:29:25.457 7470 Delete type=2 #960
+2025/08/06-19:29:25.462 7470 Manual compaction at level-0 from '!users!hAN08WVZe72WTyuk' @ 5 : 1 .. '!users!hAN08WVZe72WTyuk' @ 0 : 0; will stop at (end)

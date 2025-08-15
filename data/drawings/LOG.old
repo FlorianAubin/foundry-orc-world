@@ -1,4 +1,5 @@
-2025/08/06-19:19:46.149 1880 Log #954: 0 ops saved to Table #955 OK
-2025/08/06-19:19:46.149 1880 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings/000954.log: OK
-2025/08/06-19:19:46.152 1880 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings/MANIFEST-000953: OK
-2025/08/06-19:19:46.154 1880 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/08/06-19:19:46.159 1880 Delete type=3 #1
+2025/08/06-19:29:25.347 7470 Level-0 table #959: started
+2025/08/06-19:29:25.347 7470 Level-0 table #959: 0 bytes OK
+2025/08/06-19:29:25.349 7470 Delete type=0 #957
+2025/08/06-19:29:25.359 7470 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

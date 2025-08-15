@@ -1,6 +1,11 @@
-2025/08/06-19:19:46.228 79c0 Log #1131: 146 ops saved to Table #1132 OK
-2025/08/06-19:19:46.228 79c0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/001131.log: OK
-2025/08/06-19:19:46.230 79c0 Table #1125: 216 entries OK
-2025/08/06-19:19:46.231 79c0 Table #1132: 146 entries OK
-2025/08/06-19:19:46.233 79c0 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/MANIFEST-001130: OK
-2025/08/06-19:19:46.252 79c0 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal; recovered 2 files; 640201 bytes. Some data may have been lost. ****
+2025/08/06-19:19:46.258 79c0 Delete type=3 #1
+2025/08/06-19:20:57.225 7470 Compacting 2@0 + 0@1 files
+2025/08/06-19:20:57.232 7470 Generated table #1135@0: 216 keys, 248630 bytes
+2025/08/06-19:20:57.232 7470 Compacted 2@0 + 0@1 files => 248630 bytes
+2025/08/06-19:20:57.234 7470 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-19:20:57.234 7470 Delete type=2 #1125
+2025/08/06-19:20:57.234 7470 Delete type=2 #1132
+2025/08/06-19:29:25.390 7470 Level-0 table #1137: started
+2025/08/06-19:29:25.390 7470 Level-0 table #1137: 0 bytes OK
+2025/08/06-19:29:25.392 7470 Delete type=0 #1134
+2025/08/06-19:29:25.410 7470 Manual compaction at level-0 from '!journal!2bPyQfxBetPj30Sa' @ 72057594037927935 : 1 .. '!journal.pages!zqLANpG2JOTmkGOe.BD9IC2RkWH7oYD2f' @ 0 : 0; will stop at (end)

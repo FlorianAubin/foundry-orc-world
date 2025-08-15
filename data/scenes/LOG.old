@@ -1,5 +1,11 @@
-2025/08/06-19:19:46.320 17d8 Log #1192: 0 ops saved to Table #1193 OK
-2025/08/06-19:19:46.321 17d8 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/001192.log: OK
-2025/08/06-19:19:46.325 17d8 Table #1190: 5111 entries OK
-2025/08/06-19:19:46.327 17d8 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes/MANIFEST-001191: OK
-2025/08/06-19:19:46.329 17d8 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/scenes; recovered 1 files; 662292 bytes. Some data may have been lost. ****
+2025/08/06-19:19:46.334 17d8 Delete type=3 #1
+2025/08/06-19:29:25.424 7470 Level-0 table #1197: started
+2025/08/06-19:29:25.424 7470 Level-0 table #1197: 0 bytes OK
+2025/08/06-19:29:25.426 7470 Delete type=0 #1195
+2025/08/06-19:29:25.439 7470 Manual compaction at level-0 from '!scenes!05rWWgKhcNMnOehq' @ 72057594037927935 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 2926 : 1
+2025/08/06-19:29:25.439 7470 Compacting 1@0 + 0@1 files
+2025/08/06-19:29:25.451 7470 Generated table #1198@0: 5111 keys, 662292 bytes
+2025/08/06-19:29:25.451 7470 Compacted 1@0 + 0@1 files => 662292 bytes
+2025/08/06-19:29:25.453 7470 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/06-19:29:25.453 7470 Delete type=2 #1190
+2025/08/06-19:29:25.458 7470 Manual compaction at level-0 from '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 2926 : 1 .. '!scenes.walls!x7h77eaMSQpzTrRR.znRyWysa21aPfChY' @ 0 : 0; will stop at (end)
