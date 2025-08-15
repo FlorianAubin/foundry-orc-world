@@ -1,17 +1,14 @@
-2025/08/15-06:33:26.430647 7f8ffff0a0 Recovering log #1369
-2025/08/15-06:33:26.430895 7f8ffff0a0 Level-0 table #1371: started
-2025/08/15-06:33:26.442912 7f8ffff0a0 Level-0 table #1371: 975 bytes OK
-2025/08/15-06:33:26.466133 7f8ffff0a0 Delete type=3 #1368
-2025/08/15-06:33:26.466373 7f8ffff0a0 Delete type=0 #1369
-2025/08/15-06:39:18.699079 7f84dff0a0 Level-0 table #1374: started
-2025/08/15-06:39:18.711808 7f84dff0a0 Level-0 table #1374: 977 bytes OK
-2025/08/15-06:39:18.720805 7f84dff0a0 Delete type=0 #1372
-2025/08/15-06:39:18.742947 7f84dff0a0 Manual compaction at level-0 from '!settings!0z5hfClHznaeNutL' @ 72057594037927935 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at '!settings!wKEAIdKX554RXLO6' @ 764 : 1
-2025/08/15-06:39:18.743029 7f84dff0a0 Compacting 2@0 + 1@1 files
-2025/08/15-06:39:18.755635 7f84dff0a0 Generated table #1375@0: 22 keys, 13565 bytes
-2025/08/15-06:39:18.755772 7f84dff0a0 Compacted 2@0 + 1@1 files => 13565 bytes
-2025/08/15-06:39:18.762115 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/15-06:39:18.762590 7f84dff0a0 Delete type=2 #1374
-2025/08/15-06:39:18.763124 7f84dff0a0 Delete type=2 #1367
-2025/08/15-06:39:18.763559 7f84dff0a0 Delete type=2 #1371
-2025/08/15-06:39:18.783016 7f84dff0a0 Manual compaction at level-0 from '!settings!wKEAIdKX554RXLO6' @ 764 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at (end)
+2025/08/15-11:15:57.442 6340 Recovering log #1464
+2025/08/15-11:15:57.446 6340 Delete type=0 #1464
+2025/08/15-11:15:57.446 6340 Delete type=3 #1462
+2025/08/15-11:34:49.110 4f18 Level-0 table #1470: started
+2025/08/15-11:34:49.112 4f18 Level-0 table #1470: 976 bytes OK
+2025/08/15-11:34:49.114 4f18 Delete type=0 #1468
+2025/08/15-11:34:49.118 4f18 Manual compaction at level-0 from '!settings!0z5hfClHznaeNutL' @ 72057594037927935 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at '!settings!wKEAIdKX554RXLO6' @ 804 : 1
+2025/08/15-11:34:49.118 4f18 Compacting 1@0 + 1@1 files
+2025/08/15-11:34:49.119 4f18 Generated table #1471@0: 22 keys, 13579 bytes
+2025/08/15-11:34:49.119 4f18 Compacted 1@0 + 1@1 files => 13579 bytes
+2025/08/15-11:34:49.120 4f18 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/15-11:34:49.121 4f18 Delete type=2 #1466
+2025/08/15-11:34:49.121 4f18 Delete type=2 #1470
+2025/08/15-11:34:49.123 4f18 Manual compaction at level-0 from '!settings!wKEAIdKX554RXLO6' @ 804 : 1 .. '!settings!wvb4wWgYtWYAGkUW' @ 0 : 0; will stop at (end)

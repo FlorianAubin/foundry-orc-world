@@ -1,7 +1,27 @@
-2025/08/15-06:33:25.341632 7f8efdf0a0 Recovering log #1499
-2025/08/15-06:33:25.368067 7f8efdf0a0 Delete type=0 #1499
-2025/08/15-06:33:25.368248 7f8efdf0a0 Delete type=3 #1498
-2025/08/15-06:39:18.464674 7f84dff0a0 Level-0 table #1503: started
-2025/08/15-06:39:18.464955 7f84dff0a0 Level-0 table #1503: 0 bytes OK
-2025/08/15-06:39:18.474833 7f84dff0a0 Delete type=0 #1501
-2025/08/15-06:39:18.504170 7f84dff0a0 Manual compaction at level-0 from '!actors!0LUGnHAvsermlOuW' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
+2025/08/15-11:15:57.334 6340 Recovering log #2128
+2025/08/15-11:15:57.338 6340 Delete type=0 #2128
+2025/08/15-11:15:57.338 6340 Delete type=3 #2126
+2025/08/15-11:32:23.671 4f18 Level-0 table #2133: started
+2025/08/15-11:32:23.691 4f18 Level-0 table #2133: 2006004 bytes OK
+2025/08/15-11:32:23.693 4f18 Delete type=0 #2131
+2025/08/15-11:32:55.032 4f18 Compacting 1@0 + 2@1 files
+2025/08/15-11:32:55.060 4f18 Generated table #2134@0: 2552 keys, 2131593 bytes
+2025/08/15-11:32:55.075 4f18 Generated table #2135@0: 2009 keys, 1017858 bytes
+2025/08/15-11:32:55.075 4f18 Compacted 1@0 + 2@1 files => 3149451 bytes
+2025/08/15-11:32:55.076 4f18 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/08/15-11:32:55.076 4f18 Delete type=2 #2124
+2025/08/15-11:32:55.077 4f18 Delete type=2 #2125
+2025/08/15-11:32:55.077 4f18 Delete type=2 #2133
+2025/08/15-11:34:49.034 4f18 Level-0 table #2137: started
+2025/08/15-11:34:49.040 4f18 Level-0 table #2137: 486308 bytes OK
+2025/08/15-11:34:49.041 4f18 Delete type=0 #2132
+2025/08/15-11:34:49.044 4f18 Manual compaction at level-0 from '!actors!0LUGnHAvsermlOuW' @ 72057594037927935 : 1 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at '!actors.items!jY43uvxap1ogUUUC.yzGCKYmksIXP34C5' @ 223824 : 0
+2025/08/15-11:34:49.044 4f18 Compacting 1@0 + 2@1 files
+2025/08/15-11:34:49.071 4f18 Generated table #2138@0: 2561 keys, 2132765 bytes
+2025/08/15-11:34:49.085 4f18 Generated table #2139@0: 1967 keys, 991363 bytes
+2025/08/15-11:34:49.085 4f18 Compacted 1@0 + 2@1 files => 3124128 bytes
+2025/08/15-11:34:49.086 4f18 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/08/15-11:34:49.086 4f18 Delete type=2 #2134
+2025/08/15-11:34:49.087 4f18 Delete type=2 #2135
+2025/08/15-11:34:49.087 4f18 Delete type=2 #2137
+2025/08/15-11:34:49.089 4f18 Manual compaction at level-0 from '!actors.items!jY43uvxap1ogUUUC.yzGCKYmksIXP34C5' @ 223824 : 0 .. '!actors.items!ztK4I7hAChwkhu1L.KE4hAz0zXs7t6s7A' @ 0 : 0; will stop at (end)
