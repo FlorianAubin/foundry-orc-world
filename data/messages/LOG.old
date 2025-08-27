@@ -1,7 +1,5 @@
-2025/08/19-09:27:11.250095 7f8f7ef0a0 Recovering log #1253
-2025/08/19-09:27:11.320083 7f8f7ef0a0 Delete type=0 #1253
-2025/08/19-09:27:11.320282 7f8f7ef0a0 Delete type=3 #1251
-2025/08/20-16:44:43.787329 7f84dff0a0 Level-0 table #1258: started
-2025/08/20-16:44:43.808983 7f84dff0a0 Level-0 table #1258: 412 bytes OK
-2025/08/20-16:44:43.817483 7f84dff0a0 Delete type=0 #1256
-2025/08/20-16:44:43.849720 7f84dff0a0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/08/27-22:48:15.496 2708 Log #1261: 0 ops saved to Table #1265 OK
+2025/08/27-22:48:15.496 2708 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages/001261.log: OK
+2025/08/27-22:48:15.497 2708 Table #1264: 29 entries OK
+2025/08/27-22:48:15.499 2708 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages/MANIFEST-001259: OK
+2025/08/27-22:48:15.501 2708 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/messages; recovered 1 files; 15521 bytes. Some data may have been lost. ****

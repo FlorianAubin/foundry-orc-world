@@ -1,23 +1,5 @@
-2025/08/19-09:27:11.800812 7f8efdf0a0 Recovering log #1228
-2025/08/19-09:27:11.875338 7f8efdf0a0 Delete type=3 #1226
-2025/08/19-09:27:11.875677 7f8efdf0a0 Delete type=0 #1228
-2025/08/20-07:53:16.478054 7f84dff0a0 Level-0 table #1233: started
-2025/08/20-07:53:16.638849 7f84dff0a0 Level-0 table #1233: 1345658 bytes OK
-2025/08/20-07:53:16.647385 7f84dff0a0 Delete type=0 #1231
-2025/08/20-09:05:14.239454 7f84dff0a0 Compacting 1@0 + 1@1 files
-2025/08/20-09:05:14.299426 7f84dff0a0 Generated table #1234@0: 216 keys, 249951 bytes
-2025/08/20-09:05:14.299635 7f84dff0a0 Compacted 1@0 + 1@1 files => 249951 bytes
-2025/08/20-09:05:14.306929 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/20-09:05:14.307779 7f84dff0a0 Delete type=2 #1233
-2025/08/20-09:05:14.311151 7f84dff0a0 Delete type=2 #1225
-2025/08/20-16:44:44.298216 7f84dff0a0 Level-0 table #1236: started
-2025/08/20-16:44:44.358944 7f84dff0a0 Level-0 table #1236: 320607 bytes OK
-2025/08/20-16:44:44.365690 7f84dff0a0 Delete type=0 #1232
-2025/08/20-16:44:44.366476 7f84dff0a0 Manual compaction at level-0 from '!journal!2bPyQfxBetPj30Sa' @ 72057594037927935 : 1 .. '!journal.pages!zqLANpG2JOTmkGOe.BD9IC2RkWH7oYD2f' @ 0 : 0; will stop at '!journal.pages!M40ruIt85CgN3YUD.xIFCCwMAXP1ihc07' @ 13569 : 1
-2025/08/20-16:44:44.366507 7f84dff0a0 Compacting 1@0 + 1@1 files
-2025/08/20-16:44:44.411174 7f84dff0a0 Generated table #1237@0: 216 keys, 250372 bytes
-2025/08/20-16:44:44.411294 7f84dff0a0 Compacted 1@0 + 1@1 files => 250372 bytes
-2025/08/20-16:44:44.418504 7f84dff0a0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/20-16:44:44.418942 7f84dff0a0 Delete type=2 #1236
-2025/08/20-16:44:44.420191 7f84dff0a0 Delete type=2 #1234
-2025/08/20-16:44:44.420974 7f84dff0a0 Manual compaction at level-0 from '!journal.pages!M40ruIt85CgN3YUD.xIFCCwMAXP1ihc07' @ 13569 : 1 .. '!journal.pages!zqLANpG2JOTmkGOe.BD9IC2RkWH7oYD2f' @ 0 : 0; will stop at (end)
+2025/08/27-22:48:15.584 2708 Log #1243: 0 ops saved to Table #1246 OK
+2025/08/27-22:48:15.585 2708 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/001243.log: OK
+2025/08/27-22:48:15.585 2708 Table #1245: 213 entries OK
+2025/08/27-22:48:15.588 2708 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal/MANIFEST-001238: OK
+2025/08/27-22:48:15.590 2708 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/journal; recovered 1 files; 266527 bytes. Some data may have been lost. ****

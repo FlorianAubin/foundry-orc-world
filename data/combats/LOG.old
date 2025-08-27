@@ -1,7 +1,5 @@
-2025/08/19-09:27:11.336856 7f8efdf0a0 Recovering log #1097
-2025/08/19-09:27:11.400793 7f8efdf0a0 Delete type=3 #1095
-2025/08/19-09:27:11.401048 7f8efdf0a0 Delete type=0 #1097
-2025/08/20-16:44:43.839693 7f84dff0a0 Level-0 table #1102: started
-2025/08/20-16:44:43.840514 7f84dff0a0 Level-0 table #1102: 0 bytes OK
-2025/08/20-16:44:43.849369 7f84dff0a0 Delete type=0 #1100
-2025/08/20-16:44:43.849953 7f84dff0a0 Manual compaction at level-0 from '!combats!6jDLKQQKtdUkbEHq' @ 72057594037927935 : 1 .. '!combats.combatants!XBmXvREQzOJd2trl.ulMGyFCLIo17iMKZ' @ 0 : 0; will stop at (end)
+2025/08/27-22:48:15.509 2794 Log #1105: 0 ops saved to Table #1106 OK
+2025/08/27-22:48:15.509 2794 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/combats/001105.log: OK
+2025/08/27-22:48:15.510 2794 Table #1022: 11 entries OK
+2025/08/27-22:48:15.513 2794 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/combats/MANIFEST-001103: OK
+2025/08/27-22:48:15.515 2794 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/combats; recovered 1 files; 1472 bytes. Some data may have been lost. ****
