@@ -1,4 +1,1 @@
-2025/08/29-17:24:15.786 3310 Log #1057: 0 ops saved to Table #1058 OK
-2025/08/29-17:24:15.786 3310 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings/001057.log: OK
-2025/08/29-17:24:15.788 3310 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings/MANIFEST-001056: OK
-2025/08/29-17:24:15.790 3310 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/08/29-17:24:15.795 3310 Delete type=3 #1
