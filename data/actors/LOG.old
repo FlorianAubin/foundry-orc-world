@@ -1,6 +1,1 @@
-2025/08/27-22:48:15.439 73e4 Log #2151: 0 ops saved to Table #2155 OK
-2025/08/27-22:48:15.439 73e4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/002151.log: OK
-2025/08/27-22:48:15.444 73e4 Table #2153: 2528 entries OK
-2025/08/27-22:48:15.447 73e4 Table #2154: 2023 entries OK
-2025/08/27-22:48:15.451 73e4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors/MANIFEST-002149: OK
-2025/08/27-22:48:15.454 73e4 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/actors; recovered 2 files; 3149013 bytes. Some data may have been lost. ****
+2025/08/27-22:48:15.460 73e4 Delete type=3 #1

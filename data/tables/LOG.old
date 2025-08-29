@@ -1,5 +1,1 @@
-2025/08/27-22:48:15.639 43e4 Log #1081: 0 ops saved to Table #1082 OK
-2025/08/27-22:48:15.639 43e4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/tables/001081.log: OK
-2025/08/27-22:48:15.640 43e4 Table #1078: 556 entries OK
-2025/08/27-22:48:15.642 43e4 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/tables/MANIFEST-001079: OK
-2025/08/27-22:48:15.644 43e4 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/tables; recovered 1 files; 72094 bytes. Some data may have been lost. ****
+2025/08/27-22:48:15.649 43e4 Delete type=3 #1
