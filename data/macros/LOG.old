@@ -1,1 +1,6 @@
-2025/08/27-22:48:15.610 2794 Delete type=3 #1
+2025/08/29-17:24:15.868 3310 Log #1068: 0 ops saved to Table #1069 OK
+2025/08/29-17:24:15.869 3310 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros/001068.log: OK
+2025/08/29-17:24:15.869 3310 Table #352: 6 entries OK
+2025/08/29-17:24:15.869 3310 Table #980: 1 entries OK
+2025/08/29-17:24:15.871 3310 Archiving C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros/MANIFEST-001067: OK
+2025/08/29-17:24:15.874 3310 **** Repaired leveldb C:/Users/Florian/AppData/Local/FoundryVTT/Data/worlds/orc/data/macros; recovered 2 files; 1317 bytes. Some data may have been lost. ****
