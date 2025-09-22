@@ -1,1 +1,7 @@
-2025/08/29-17:24:15.815 6f04 Delete type=3 #1
+2025/09/17-21:38:12.609079 7f8ffff0a0 Recovering log #1208
+2025/09/17-21:38:12.632768 7f8ffff0a0 Delete type=0 #1208
+2025/09/17-21:38:12.632951 7f8ffff0a0 Delete type=3 #1206
+2025/09/17-22:04:12.244265 7f84dff0a0 Level-0 table #1214: started
+2025/09/17-22:04:12.244398 7f84dff0a0 Level-0 table #1214: 0 bytes OK
+2025/09/17-22:04:12.253341 7f84dff0a0 Delete type=0 #1212
+2025/09/17-22:04:12.274217 7f84dff0a0 Manual compaction at level-0 from '!fog!2GVCaWXCfsQ1elkd' @ 72057594037927935 : 1 .. '!fog!z9QH1i8rOI23ZxZN' @ 0 : 0; will stop at (end)
